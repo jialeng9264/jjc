@@ -1,0 +1,223 @@
+.all{
+  background-color: #f5f5f5;
+  padding-bottom: 30px;
+}
+.breadcrumb {
+  width: 1200px;
+  height: 23px;
+  line-height: 23px;
+  margin: 0 auto;
+  margin-top: 10px;
+  img {
+    float: left;
+    margin-right: 10px;
+  }
+}
+.find_qualification {
+  width: 1200px;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.find_top {
+  width: 100%;
+  margin: 0 auto;
+  
+  .find_top_c {
+    width: 100%;
+    overflow: hidden;
+    background-color: #fff;
+    .area {
+      width: 92.9%;
+      float: right;
+      .one{
+        width: 100%;
+        height: 130px;
+      }
+      span {
+        line-height: 30px;
+      }
+      ul {
+        .active {
+          color: #fff;
+          background-color: rgb(237, 111, 88);
+        }
+        li {
+          float: left;
+          padding: 1px 20px;
+          line-height: 25px;
+          text-align: center;
+          color: #333;
+          border-radius: 15px;
+          margin-top: 5px;
+          cursor: pointer;
+        }
+        li:not(:first-child) {
+          margin-left: 5px;
+        }
+      }
+    }
+    .condition {
+      margin-left: 30px;
+      margin-top: 25px;
+    }
+    .zizhi{
+      position: relative;
+      .add{
+        position: absolute;
+        left: 48%;
+        top: 0;
+      }
+      .zhi:not(:first-child){
+        margin-left: 82px;
+        margin-top: 10px;
+        float: left;
+      }
+      .el-icon-remove-outline{
+        margin-left: 20px;
+      }
+    }
+  }
+}
+
+.company_details {
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 20px;
+  ul {
+    width: 100%;
+    li {
+      width: 100%;
+      background-color: #fff;
+      cursor: pointer;
+      padding: 20px 30px;
+      box-shadow: 0 0 5px 0px #999;
+      position: relative;
+      a{
+        position: absolute;
+        right: 25px;
+      }
+      .mingcheng {
+        padding-bottom: 10px;
+        font-size: 18px;
+        font-weight: 700;
+        color: #222; 
+      }
+      .detail{
+        display: flex;
+        color: #666;
+        margin-bottom: 10px;
+        div{
+          flex: 1;
+          max-width: 25%;
+          min-width: 20.5%;
+          padding: 0 15px;
+          line-height: 2;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+      }
+      
+      .zizhi{
+        display: flex;
+        flex-wrap: wrap;
+        color: #666;
+        padding: 8px 15px 0;
+        border-top: 1px dashed #ccc;
+        span{
+          flex: 1; 
+          min-width: 33%;
+          max-width: 33%;
+          font-size: 14px;
+          line-height: 2; 
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        } 
+        a{
+          color: black;
+          line-height: 33px;
+        }
+      }
+      .pinglun_list{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 0px 15px 0;
+        div{
+          flex: 1; 
+          min-width: 33%;
+          max-width: 33%;
+          font-size: 14px;
+          line-height: 2;
+          color: #666; 
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+      }
+    .draw-enter-active,
+    .draw-leave-active {
+      transition: all 0s ease;
+    }
+    .draw-enter,
+    .draw-leave-to {
+      height: 0;
+    }
+    }
+    li:not(:first-child) {
+      margin-top: 25px;
+    }
+  }
+}
+.nodate{
+  width: 100%;
+  height: 393px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 40px 0;
+  background-color: #fff;
+    .nodate_item{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      img{
+        width: 300px;
+        height: 300px;
+      }
+    }
+}
+.fenye {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+.active {
+  color: #fff;
+  background-color: rgb(237, 111, 88);
+}
+.alert {
+  /deep/ .el-dialog {
+    width: 365px;
+    height: 195px;
+    box-shadow: none;
+    background: url("~@/assets/img/public/connect.png") no-repeat;
+    position: relative;
+    .el-dialog__headerbtn {
+      display: none;
+    }
+    i {
+      position: absolute;
+      right: 10px;
+      top: 10px;
+      color: #fff;
+      cursor: pointer;
+    }
+  }
+}

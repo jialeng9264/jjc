@@ -1,0 +1,831 @@
+a {
+  color: #333;
+}
+
+.swiper-container {
+  width: 100%;
+}
+
+.swiper-slide {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: rgb(88, 105, 133);
+}
+
+.swiper-container {
+  --swiper-pagination-color: #fff; /* 两种都可以 */
+}
+
+.blue {
+  color: #fff;
+  background-color: rgb(25, 147, 214);
+}
+
+.blue::after {
+  border-top: 8px solid rgb(25, 147, 214);
+}
+
+.find {
+  width: 940px;
+  height: 158px;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-top: -2%;
+  position: relative;
+  z-index: 2;
+  background-color: #fff;
+  box-shadow: 0px 8px 20px 0px #bfbdbd;
+  border: 1px solid transparent;
+
+  ul {
+    width: 50%;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 15px;
+    color: rgb(24, 147, 214);
+    li {
+      padding: 3px 6px;
+      line-height: 1.42857143;
+      margin-right: 32px;
+      margin-bottom: 14px;
+      border-radius: 2px;
+      font-size: 16px;
+      text-align: center;
+      cursor: pointer;
+      float: left;
+      position: relative;
+    }
+    li::after {
+      position: absolute;
+      left: 35%;
+      top: 100%;
+      content: "";
+      width: 0;
+      height: 0;
+      margin-top: 0px;
+      border-left: 8px solid transparent;
+      border-right: 8px solid transparent;
+    }
+  }
+
+  .search {
+    width: 790px;
+    height: 45px;
+    line-height: 40px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 1px solid rgb(25, 147, 214);
+
+    img {
+      padding-left: 10px;
+    }
+
+    input {
+      width: 76%;
+    }
+
+    button {
+      width: 100px;
+      height: 100%;
+      color: #fff;
+      cursor: pointer;
+      letter-spacing: 6px;
+      border-radius: 6px;
+      margin-right: -1px;
+      background: linear-gradient(to right, rgb(14, 197, 179), rgb(3, 147, 200));
+    }
+  }
+}
+
+.zbxmxx {
+  text-align: center;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+// 招标项目信息
+.bidding_project {
+  width: 1200px;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.bidding_project_name .active {
+  color: #fff;
+  background-color: rgb(239, 118, 91);
+}
+
+.bidding_project_name button {
+  width: 100px;
+  height: 36px;
+  border-radius: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+  background-color: rgb(245, 246, 250);
+}
+
+.bidding_project_content {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.xinxi {
+  width: 1200px;
+  height: 250px;
+  overflow: hidden;
+  .xinxi_img {
+    width: 220px;
+    height: 250px;
+    text-align: center;
+    background: url("~@/assets/img/bg_cs.png") no-repeat;
+    background-size: 100% 100%;
+
+    p {
+      color: rgb(133, 35, 0);
+      padding-top: 30px;
+      font-size: 18px;
+      font-weight: 600;
+    }
+
+    span {
+      display: inline-block;
+      padding-top: 30px;
+      color: rgb(218, 168, 145);
+      cursor: pointer;
+      font-weight: 600;
+    }
+  }
+
+  .xinxi_content {
+    width: 970px;
+    height: 100%;
+    font-size: 14px;
+    ul {
+      width: 100%;
+      height: 100%;
+
+      li {
+        width: 470px;
+        height: 63px;
+        float: left;
+        cursor: pointer;
+        border: 1px solid rgb(234, 234, 234);
+
+        .time {
+          width: 64px;
+          height: 100%;
+          text-align: center;
+          color: #333;
+          background-color: rgb(234, 234, 234);
+
+          .ri {
+            display: inline-block;
+            font-size: 22px;
+            margin-top: 3px;
+          }
+
+          .line {
+            width: 90%;
+            height: 2px;
+            margin: 0 auto;
+            margin-top: 5px;
+            background-color: rgb(224, 224, 224);
+          }
+
+          .nian {
+            display: inline-block;
+            font-size: 13px;
+            margin-top: 6px;
+          }
+        }
+
+        .content_title {
+          width: 380px;
+          display: flex;
+          height: 40px;
+          align-items: center;
+          margin-top: 10px;
+          margin-right: 5px;
+
+          span {
+            word-break: break-all;
+            text-overflow: ellipsis;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+          }
+        }
+      }
+      li:nth-child(even){
+        float: right;
+      }
+
+      li:not(:nth-child(-n + 2)) {
+        margin-top: 28px;
+      }
+    }
+  }
+}
+
+.gonggao {
+  width: 1200px;
+  height: 250px;
+  margin-top: 20px;
+  .gonggao_img {
+    width: 220px;
+    height: 250px;
+    text-align: center;
+    background: url("~@/assets/img/bg_ls.png") no-repeat;
+    background-size: 100% 100%;
+
+    p {
+      color: rgb(1, 44, 78);
+      padding-top: 60px;
+      font-size: 18px;
+      font-weight: 600;
+    }
+
+    span {
+      display: inline-block;
+      padding-top: 30px;
+      color: rgb(110, 159, 192);
+      cursor: pointer;
+      font-weight: 600;
+    }
+  }
+
+  .gonggao_content {
+    width: 970px;
+    height: 100%;
+  }
+}
+
+.gonggao_content /deep/ .el-tabs__content {
+  height: 200px;
+  padding: 0;
+
+  ul li {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    overflow: hidden;
+    cursor: pointer;
+    border-bottom: 1px solid rgb(236, 245, 252);
+
+    img {
+      margin-left: 10px;
+      margin-bottom: 12.5px;
+    }
+
+    .neirong {
+      display: inline-block;
+      width: 75%;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .news-dot {
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      background: rgba(18, 139, 237, 0.8);
+      border-radius: 3px;
+      margin-bottom: 17px;
+    }
+
+    span:last-child {
+      margin-right: 10px;
+    }
+  }
+}
+
+.loop {
+  width: 1200px;
+  height: 130px;
+}
+
+// 依法非招标项目
+.fyfzbxm {
+  width: 1200px;
+  height: 30px;
+  line-height: 30px;
+  margin: 0 auto;
+  margin-top: 20px;
+  position: relative;
+  h2 {
+    text-align: center;
+    font-weight: 600;
+  }
+
+  span {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: inline-block;
+
+    img {
+      vertical-align: middle;
+    }
+  }
+}
+
+.no_bidding_project {
+  width: 1200px;
+  height: 274px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.no_bidding_project_name {
+  .active{
+    background: url("~@/assets/img/index/fyfzbxm_title_blue.png") no-repeat;
+    background-size: 100% 100%;
+  }
+  width: 640px;
+  height: 36px;
+  margin: 0 auto;
+  ul {
+    width: 100%;
+    height: 100%;
+
+    li {
+      width: 140px;
+      height: 100%;
+      line-height: 36px;
+      text-align: center;
+      float: left;
+      color: #fff;
+      font-size: 15px;
+      cursor: pointer;
+      position: relative;
+      padding-top: 4px;
+      background: url("~@/assets/img/index/fyfzbxm_title.png") no-repeat;
+      background-size: 100% 100%;
+    }
+  }
+
+  li:not(:first-child) {
+    margin-left: 25px;
+  }
+}
+
+.no_bidding_project_content {
+  width: 100%;
+  height: 200px;
+  margin-top: 15px;
+  overflow: hidden;
+  ul {
+    width: 100%;
+    height: 100%;
+
+    li {
+      width: 49%;
+      height: 40px;
+      line-height: 40px;
+      font-size: 14px;
+      float: left;
+      cursor: pointer;
+      border-bottom: 1px solid rgb(238, 245, 251);
+
+      img {
+        margin-bottom: 12.5px;
+      }
+
+      .neirong {
+        display: inline-block;
+        width: 74%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+    }
+
+    li:nth-child(even) {
+      float: right;
+    }
+  }
+}
+
+// 分包项目
+.fbxx {
+  width: 100%;
+  height: 450px;
+  background-color: #f6f6f6;
+  .fbxx_title {
+    width: 1180px;
+    height: 30px;
+    line-height: 30px;
+    margin: 0 auto;
+    padding-top: 15px;
+    position: relative;
+    h2 {
+      text-align: center;
+      font-weight: 600;
+    }
+
+    span {
+      cursor: pointer;
+      position: absolute;
+      top: 0;
+      right: 0;
+      display: inline-block;
+
+      img {
+        vertical-align: middle;
+      }
+    }
+  }
+
+  .fbxx_content {
+    width: 1180px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 30px;
+    ul {
+      width: 100%;
+      height: 100%;
+
+      li {
+        width: 380px;
+        height: 140px;
+        float: left;
+        font-size: 14px;
+        margin-left: 19px;
+        background-color: #fff;
+        position: relative;
+        cursor: pointer;
+
+        .fbxx_content_c {
+          width: 335px;
+          height: 63px;
+          margin-left: 10px;
+          margin-top: 25px;
+          word-break: break-all;
+          text-overflow: ellipsis;
+          overflow: hidden;
+          display: -webkit-box;
+          -webkit-line-clamp: 3;
+          -webkit-box-orient: vertical;
+          text-indent: 2em;
+          line-height: 1.5;
+
+          .fbxx_content_c_t {
+            color: rgb(3, 138, 204);
+          }
+        }
+
+        .fbxx_content_time {
+          margin-top: 10px;
+          margin-right: 10px;
+        }
+
+        img {
+          width: 80px;
+          height: 80px;
+          position: absolute;
+          top: -7px;
+          right: -8px;
+        }
+      }
+
+      li:nth-child(1) {
+        margin-left: 0px;
+      }
+
+      li:nth-child(4) {
+        margin-left: 0px;
+      }
+
+      li:nth-child(n + 4) {
+        margin-top: 20px;
+      }
+    }
+  }
+
+  .see_more {
+    width: 210px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 30px;
+    cursor: pointer;
+    color: #fff;
+    background: linear-gradient(to right, rgb(15, 198, 180), rgb(3, 141, 203));
+    img {
+      vertical-align: middle;
+    }
+  }
+}
+
+// 资质共享
+.zzgx {
+  width: 1200px;
+  height: 320px;
+  margin: 0 auto;
+  h2 {
+    text-align: center;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .seamless-warp2 {
+    width: 1200px;
+    height: 176px;
+    cursor: pointer;
+    overflow: hidden;
+    .item {
+      width: 1200px;
+      height: 176px;
+      li{
+        width: 204px !important;
+        height: 176px;
+        border-radius: 10px;
+        float: left;
+        margin-right: 36px;
+      }
+      
+      img {
+        width: 204px;
+        height: 122px;
+        border-radius: 10px;
+        border: 1px solid #e9e8e8;
+      }
+
+      p {
+        text-align: center;
+        margin-top: 10px;
+      }
+    }
+  }
+
+  .hqzzxq {
+    width: 280px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 30px;
+    cursor: pointer;
+    color: #fff;
+    background: linear-gradient(to right, rgb(15, 198, 180), rgb(3, 141, 203));
+
+    img {
+      vertical-align: middle;
+    }
+  }
+}
+.yellow{
+  width: 1200px;
+  height: 130px;
+  margin: 0 auto;
+  cursor: pointer;
+}
+// 最新行业资讯法规
+.zxhyzxfg {
+  width: 100%;
+  height: 485px;
+  margin-top: 20px;
+  overflow: hidden;
+  background-color: rgb(246, 246, 246);
+}
+
+.zxhyzxfg_c {
+  width: 1200px;
+  height: 460px;
+  margin: 0 auto;
+  margin-top: 15px;
+  h2 {
+    text-align: center;
+    font-weight: 600;
+  }
+
+  .more_qualification {
+    width: 174px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 38px;
+    cursor: pointer;
+    color: #fff;
+    background: linear-gradient(to right, rgb(15, 198, 180), rgb(3, 141, 203));
+
+    img {
+      vertical-align: middle;
+    }
+  }
+}
+
+.regulations {
+  width: 1170px;
+  height: 310px;
+  margin-top: 30px;
+  margin-left: 30px;
+  .regulations_l {
+    width: 500px;
+    height: 100%;
+
+    ul {
+      width: 100%;
+      height: 100%;
+
+      li {
+        width: 234px;
+        height: 100%;
+        font-size: 14px;
+        float: left;
+        position: relative;
+        background: #fff;
+        cursor: pointer;
+        .regulations_l_c {
+          width: 90%;
+          height: 80px;
+          margin: 0 auto;
+          margin-top: 22px;
+        }
+
+        span {
+          display: inline-block;
+          margin-top: 20px;
+          margin-left: 20px;
+        }
+
+        .regulations_l_top {
+          display: inline-block;
+          width: 60px;
+          height: 37px;
+          color: #fff;
+          line-height: 37px;
+          text-align: center;
+          font-size: 20px;
+          background-color: rgb(51, 51, 51);
+          position: absolute;
+          top: -32px;
+          left: -26px;
+        }
+      }
+
+      li:last-child {
+        margin-left: 26px;
+      }
+    }
+  }
+
+  .regulations_r {
+    width: 628px;
+    height: 100%;
+
+    ul {
+      width: 100%;
+      height: 100%;
+
+      li {
+        width: 100%;
+        height: 54px;
+        position: relative;
+        cursor: pointer;
+        background-color: #fff;
+
+        .regulations_r_time {
+          width: 104px;
+          height: 32px;
+          position: absolute;
+          top: 11px;
+          left: -12px;
+          color: #fff;
+          text-align: center;
+          line-height: 32px;
+          font-size: 14px;
+          background: linear-gradient(to right, rgb(90, 109, 230), rgb(82, 193, 248));
+        }
+
+        .regulations_r_c {
+          width: 510px;
+          height: 54px;
+          font-size: 14px;
+          line-height: 54px;
+        }
+      }
+
+      li:not(:first-child) {
+        margin-top: 10px;
+      }
+    }
+  }
+}
+
+// 八大服务
+.service {
+  width: 100%;
+
+  h2 {
+    text-align: center;
+    font-weight: 600;
+    margin-top: 30px;
+  }
+}
+
+.service_c {
+  width: 1160px;
+  height: 454px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 30px;
+
+  ul {
+    width: 100%;
+    height: 100%;
+    display: flex;
+      flex-wrap: wrap;
+      align-content: space-between;
+      justify-content: space-between;
+    li {
+      width: 210px;
+      height: 210px;
+      float: left;
+      text-align: center;
+      cursor: pointer;
+      background-color: rgb(246, 246, 246);
+
+      .service_c_img {
+        width: 75px;
+        height: 75px;
+        margin: 0 auto;
+        margin-top: 5px;
+      }
+
+      .serveice_c_tiele {
+        width: 100%;
+        h3 {
+          font-weight: 600;
+          text-align: center;
+        }
+
+        p {
+          width: 190px;
+          margin: 0 auto;
+          font-size: 14px;
+          margin-top: 5px;
+          line-height: 1.4;
+          text-align: left;
+          text-indent:  2em;
+        }
+      }
+    }
+
+  }
+}
+
+
+.container{
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 624;
+  background-color: rgba(0, 0, 0, 0.8);
+  .picture{
+    width: 560px;
+    height: 600px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    img{
+      width: 100%;
+      height: 100%;
+      cursor: pointer;
+    }
+    i{
+      font-size: 30px;
+      position: absolute;
+      right: 0;
+      top: 0;
+      color: #fff;
+      cursor: pointer;
+    }
+  }
+}

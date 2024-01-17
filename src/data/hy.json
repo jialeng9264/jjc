@@ -1,0 +1,1076 @@
+[
+  {
+    "hy": "农、林、牧、渔业",
+    "code": "HYFL_A",
+    "hyCode": "A",
+    "lft": 37,
+    "rgt": 48,
+    "level": 1,
+    "children": [
+      {
+        "hy": "农业",
+        "code": "HYFL_A_01",
+        "hyCode": "A01",
+        "lft": 38,
+        "rgt": 39,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "林业",
+        "code": "HYFL_A_02",
+        "hyCode": "A02",
+        "lft": 40,
+        "rgt": 41,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "畜牧业",
+        "code": "HYFL_A_03",
+        "hyCode": "A03",
+        "lft": 42,
+        "rgt": 43,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "渔业",
+        "code": "HYFL_A_04",
+        "hyCode": "A04",
+        "lft": 44,
+        "rgt": 45,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "农、林、牧、渔专业及辅助性活动",
+        "code": "HYFL_A_05",
+        "hyCode": "A05",
+        "lft": 46,
+        "rgt": 47,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "采矿业",
+    "code": "HYFL_B",
+    "hyCode": "B",
+    "lft": 49,
+    "rgt": 64,
+    "level": 1,
+    "children": [
+      {
+        "hy": "煤炭开采和洗选业",
+        "code": "HYFL_B_06",
+        "hyCode": "B06",
+        "lft": 50,
+        "rgt": 51,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "石油和天然气开采业",
+        "code": "HYFL_B_07",
+        "hyCode": "B07",
+        "lft": 52,
+        "rgt": 53,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "黑色金属矿采选业",
+        "code": "HYFL_B_08",
+        "hyCode": "B08",
+        "lft": 54,
+        "rgt": 55,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "有色金属矿采选业",
+        "code": "HYFL_B_09",
+        "hyCode": "B09",
+        "lft": 56,
+        "rgt": 57,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "非金属矿采选业",
+        "code": "HYFL_B_10",
+        "hyCode": "B10",
+        "lft": 58,
+        "rgt": 59,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "开采专业及辅助性活动",
+        "code": "HYFL_B_11",
+        "hyCode": "B11",
+        "lft": 60,
+        "rgt": 61,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "其他采矿业",
+        "code": "HYFL_B_12",
+        "hyCode": "B12",
+        "lft": 62,
+        "rgt": 63,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "制造业",
+    "code": "HYFL_C",
+    "hyCode": "C",
+    "lft": 65,
+    "rgt": 128,
+    "level": 1,
+    "children": [
+      {
+        "hy": "农副食品加工业",
+        "code": "HYFL_C_13",
+        "hyCode": "C13",
+        "lft": 66,
+        "rgt": 67,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "食品制造业",
+        "code": "HYFL_C_14",
+        "hyCode": "C14",
+        "lft": 68,
+        "rgt": 69,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "酒、饮料和精制茶制造业",
+        "code": "HYFL_C_15",
+        "hyCode": "C15",
+        "lft": 70,
+        "rgt": 71,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "烟草制品业",
+        "code": "HYFL_C_16",
+        "hyCode": "C16",
+        "lft": 72,
+        "rgt": 73,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "纺织业",
+        "code": "HYFL_C_17",
+        "hyCode": "C17",
+        "lft": 74,
+        "rgt": 75,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "纺织服装、服饰业",
+        "code": "HYFL_C_18",
+        "hyCode": "C18",
+        "lft": 76,
+        "rgt": 77,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "皮革、毛皮、羽毛及其制品和制鞋业",
+        "code": "HYFL_C_19",
+        "hyCode": "C19",
+        "lft": 78,
+        "rgt": 79,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "木材加工和木、竹、藤、棕、草制品业",
+        "code": "HYFL_C_20",
+        "hyCode": "C20",
+        "lft": 80,
+        "rgt": 81,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "家具制造业",
+        "code": "HYFL_C_21",
+        "hyCode": "C21",
+        "lft": 82,
+        "rgt": 83,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "造纸和纸制品业",
+        "code": "HYFL_C_22",
+        "hyCode": "C22",
+        "lft": 84,
+        "rgt": 85,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "印刷和记录媒介复制业",
+        "code": "HYFL_C_23",
+        "hyCode": "C23",
+        "lft": 86,
+        "rgt": 87,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "文教、工美、体育和娱乐用品制造业",
+        "code": "HYFL_C_24",
+        "hyCode": "C24",
+        "lft": 88,
+        "rgt": 89,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "石油、煤炭及其他燃料加工业",
+        "code": "HYFL_C_25",
+        "hyCode": "C25",
+        "lft": 90,
+        "rgt": 91,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "化学原料和化学制品制造业",
+        "code": "HYFL_C_26",
+        "hyCode": "C26",
+        "lft": 92,
+        "rgt": 93,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "医药制造业",
+        "code": "HYFL_C_27",
+        "hyCode": "C27",
+        "lft": 94,
+        "rgt": 95,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "化学纤维制造业",
+        "code": "HYFL_C_28",
+        "hyCode": "C28",
+        "lft": 96,
+        "rgt": 97,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "橡胶和塑料制品业",
+        "code": "HYFL_C_29",
+        "hyCode": "C29",
+        "lft": 98,
+        "rgt": 99,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "非金属矿物制品业",
+        "code": "HYFL_C_30",
+        "hyCode": "C30",
+        "lft": 100,
+        "rgt": 101,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "黑色金属冶炼和压延加工业",
+        "code": "HYFL_C_31",
+        "hyCode": "C31",
+        "lft": 102,
+        "rgt": 103,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "有色金属冶炼和压延加工业",
+        "code": "HYFL_C_32",
+        "hyCode": "C32",
+        "lft": 104,
+        "rgt": 105,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "金属制品业",
+        "code": "HYFL_C_33",
+        "hyCode": "C33",
+        "lft": 106,
+        "rgt": 107,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "通用设备制造业",
+        "code": "HYFL_C_34",
+        "hyCode": "C34",
+        "lft": 108,
+        "rgt": 109,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "专用设备制造业",
+        "code": "HYFL_C_35",
+        "hyCode": "C35",
+        "lft": 110,
+        "rgt": 111,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "汽车制造业",
+        "code": "HYFL_C_36",
+        "hyCode": "C36",
+        "lft": 112,
+        "rgt": 113,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "铁路、船舶、航空航天和其他运输设备制造业",
+        "code": "HYFL_C_37",
+        "hyCode": "C37",
+        "lft": 114,
+        "rgt": 115,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "电气机械和器材制造业",
+        "code": "HYFL_C_38",
+        "hyCode": "C38",
+        "lft": 116,
+        "rgt": 117,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "计算机、通信和其他电子设备制造业",
+        "code": "HYFL_C_39",
+        "hyCode": "C39",
+        "lft": 118,
+        "rgt": 119,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "仪器仪表制造业",
+        "code": "HYFL_C_40",
+        "hyCode": "C40",
+        "lft": 120,
+        "rgt": 121,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "其他制造业",
+        "code": "HYFL_C_41",
+        "hyCode": "C41",
+        "lft": 122,
+        "rgt": 123,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "废弃资源综合利用业",
+        "code": "HYFL_C_42",
+        "hyCode": "C42",
+        "lft": 124,
+        "rgt": 125,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "金属制品、机械和设备修理业",
+        "code": "HYFL_C_43",
+        "hyCode": "C43",
+        "lft": 126,
+        "rgt": 127,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "电力、热力、燃气及水生产和供应业",
+    "code": "HYFL_D",
+    "hyCode": "D",
+    "lft": 129,
+    "rgt": 136,
+    "level": 1,
+    "children": [
+      {
+        "hy": "电力、热力生产和供应业",
+        "code": "HYFL_D_44",
+        "hyCode": "D44",
+        "lft": 130,
+        "rgt": 131,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "燃气生产和供应业",
+        "code": "HYFL_D_45",
+        "hyCode": "D45",
+        "lft": 132,
+        "rgt": 133,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "水的生产和供应业 ",
+        "code": "HYFL_D_46",
+        "hyCode": "D46",
+        "lft": 134,
+        "rgt": 135,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "建筑业",
+    "code": "HYFL_E",
+    "hyCode": "E",
+    "lft": 137,
+    "rgt": 146,
+    "level": 1,
+    "children": [
+      {
+        "hy": "房屋建筑业",
+        "code": "HYFL_E_47",
+        "hyCode": "E47",
+        "lft": 138,
+        "rgt": 139,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "土木工程建筑业",
+        "code": "HYFL_E_48",
+        "hyCode": "E48",
+        "lft": 140,
+        "rgt": 141,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "建筑安装业",
+        "code": "HYFL_E_49",
+        "hyCode": "E49",
+        "lft": 142,
+        "rgt": 143,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "建筑装饰、装修和其他建筑业",
+        "code": "HYFL_E_50",
+        "hyCode": "E50",
+        "lft": 144,
+        "rgt": 145,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "批发和零售业",
+    "code": "HYFL_F",
+    "hyCode": "F",
+    "lft": 147,
+    "rgt": 152,
+    "level": 1,
+    "children": [
+      {
+        "hy": "批发业",
+        "code": "HYFL_F_51",
+        "hyCode": "F51",
+        "lft": 148,
+        "rgt": 149,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "零售业",
+        "code": "HYFL_F_52",
+        "hyCode": "F52",
+        "lft": 150,
+        "rgt": 151,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "交通运输、仓储和邮政业",
+    "code": "HYFL_G",
+    "hyCode": "G",
+    "lft": 153,
+    "rgt": 170,
+    "level": 1,
+    "children": [
+      {
+        "hy": "铁路运输业",
+        "code": "HYFL_G_53",
+        "hyCode": "G53",
+        "lft": 154,
+        "rgt": 155,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "道路运输业",
+        "code": "HYFL_G_54",
+        "hyCode": "G54",
+        "lft": 156,
+        "rgt": 157,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "水上运输业",
+        "code": "HYFL_G_55",
+        "hyCode": "G55",
+        "lft": 158,
+        "rgt": 159,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "航空运输业",
+        "code": "HYFL_G_56",
+        "hyCode": "G56",
+        "lft": 160,
+        "rgt": 161,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "管道运输业",
+        "code": "HYFL_G_57",
+        "hyCode": "G57",
+        "lft": 162,
+        "rgt": 163,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "多式联运和运输代理业",
+        "code": "HYFL_G_58",
+        "hyCode": "G58",
+        "lft": 164,
+        "rgt": 165,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "装卸搬运和仓储业",
+        "code": "HYFL_G_59",
+        "hyCode": "G59",
+        "lft": 166,
+        "rgt": 167,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "邮政业",
+        "code": "HYFL_G_60",
+        "hyCode": "G60",
+        "lft": 168,
+        "rgt": 169,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "住宿和餐饮业",
+    "code": "HYFL_H",
+    "hyCode": "H",
+    "lft": 171,
+    "rgt": 176,
+    "level": 1,
+    "children": [
+      {
+        "hy": "住宿业",
+        "code": "HYFL_H_61",
+        "hyCode": "H61",
+        "lft": 172,
+        "rgt": 173,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "餐饮业",
+        "code": "HYFL_H_62",
+        "hyCode": "H62",
+        "lft": 174,
+        "rgt": 175,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "信息传输、软件和信息技术服务业",
+    "code": "HYFL_I",
+    "hyCode": "I",
+    "lft": 177,
+    "rgt": 184,
+    "level": 1,
+    "children": [
+      {
+        "hy": "电信、广播电视和卫星传输服务",
+        "code": "HYFL_I_63",
+        "hyCode": "I63",
+        "lft": 178,
+        "rgt": 179,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "互联网和相关服务",
+        "code": "HYFL_I_64",
+        "hyCode": "I64",
+        "lft": 180,
+        "rgt": 181,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "软件和信息技术服务业",
+        "code": "HYFL_I_65",
+        "hyCode": "I65",
+        "lft": 182,
+        "rgt": 183,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "金融业",
+    "code": "HYFL_J",
+    "hyCode": "J",
+    "lft": 185,
+    "rgt": 194,
+    "level": 1,
+    "children": [
+      {
+        "hy": "货币金融服务",
+        "code": "HYFL_J_66",
+        "hyCode": "J66",
+        "lft": 186,
+        "rgt": 187,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "资本市场服务",
+        "code": "HYFL_J_67",
+        "hyCode": "J67",
+        "lft": 188,
+        "rgt": 189,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "保险业",
+        "code": "HYFL_J_68",
+        "hyCode": "J68",
+        "lft": 190,
+        "rgt": 191,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "其他金融业",
+        "code": "HYFL_J_69",
+        "hyCode": "J69",
+        "lft": 192,
+        "rgt": 193,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "房地产业",
+    "code": "HYFL_K",
+    "hyCode": "K",
+    "lft": 195,
+    "rgt": 198,
+    "level": 1,
+    "children": [
+      {
+        "hy": "房地产业",
+        "code": "HYFL_K_70",
+        "hyCode": "K70",
+        "lft": 196,
+        "rgt": 197,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "租赁和商务服务业",
+    "code": "HYFL_L",
+    "hyCode": "L",
+    "lft": 199,
+    "rgt": 204,
+    "level": 1,
+    "children": [
+      {
+        "hy": "租赁业",
+        "code": "HYFL_L_71",
+        "hyCode": "L71",
+        "lft": 200,
+        "rgt": 201,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "商务服务业",
+        "code": "HYFL_L_72",
+        "hyCode": "L72",
+        "lft": 202,
+        "rgt": 203,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "科学研究和技术服务业",
+    "code": "HYFL_M",
+    "hyCode": "M",
+    "lft": 205,
+    "rgt": 212,
+    "level": 1,
+    "children": [
+      {
+        "hy": "研究和试验发展",
+        "code": "HYFL_M_73",
+        "hyCode": "M73",
+        "lft": 206,
+        "rgt": 207,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "专业技术服务业",
+        "code": "HYFL_M_74",
+        "hyCode": "M74",
+        "lft": 208,
+        "rgt": 209,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "科技推广和应用服务业",
+        "code": "HYFL_M_75",
+        "hyCode": "M75",
+        "lft": 210,
+        "rgt": 211,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "水利、环境和公共设施管理业",
+    "code": "HYFL_N",
+    "hyCode": "N",
+    "lft": 213,
+    "rgt": 222,
+    "level": 1,
+    "children": [
+      {
+        "hy": "水利管理业",
+        "code": "HYFL_N_76",
+        "hyCode": "N76",
+        "lft": 214,
+        "rgt": 215,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "生态保护和环境治理业",
+        "code": "HYFL_N_77",
+        "hyCode": "N77",
+        "lft": 216,
+        "rgt": 217,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "公共设施管理业",
+        "code": "HYFL_N_78",
+        "hyCode": "N78",
+        "lft": 218,
+        "rgt": 219,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "土地管理业",
+        "code": "HYFL_N_79",
+        "hyCode": "N79",
+        "lft": 220,
+        "rgt": 221,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "居民服务、修理和其他服务业",
+    "code": "HYFL_O",
+    "hyCode": "O",
+    "lft": 223,
+    "rgt": 230,
+    "level": 1,
+    "children": [
+      {
+        "hy": "居民服务业",
+        "code": "HYFL_O_80",
+        "hyCode": "O80",
+        "lft": 224,
+        "rgt": 225,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "机动车、电子产品和日用产品修理业",
+        "code": "HYFL_O_81",
+        "hyCode": "O81",
+        "lft": 226,
+        "rgt": 227,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "其他服务业",
+        "code": "HYFL_O_82",
+        "hyCode": "O82",
+        "lft": 228,
+        "rgt": 229,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "教育",
+    "code": "HYFL_P",
+    "hyCode": "P",
+    "lft": 231,
+    "rgt": 234,
+    "level": 1,
+    "children": [
+      {
+        "hy": "教育",
+        "code": "HYFL_P_83",
+        "hyCode": "P83",
+        "lft": 232,
+        "rgt": 233,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "卫生和社会工作",
+    "code": "HYFL_Q",
+    "hyCode": "Q",
+    "lft": 235,
+    "rgt": 240,
+    "level": 1,
+    "children": [
+      {
+        "hy": "卫生",
+        "code": "HYFL_Q_84",
+        "hyCode": "Q84",
+        "lft": 236,
+        "rgt": 237,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "社会工作",
+        "code": "HYFL_Q_85",
+        "hyCode": "Q85",
+        "lft": 238,
+        "rgt": 239,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "文化、体育和娱乐业",
+    "code": "HYFL_R",
+    "hyCode": "R",
+    "lft": 241,
+    "rgt": 252,
+    "level": 1,
+    "children": [
+      {
+        "hy": "新闻和出版业",
+        "code": "HYFL_R_86",
+        "hyCode": "R86",
+        "lft": 242,
+        "rgt": 243,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "广播、电视、电影和录音制作业",
+        "code": "HYFL_R_87",
+        "hyCode": "R87",
+        "lft": 244,
+        "rgt": 245,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "文化艺术业",
+        "code": "HYFL_R_88",
+        "hyCode": "R88",
+        "lft": 246,
+        "rgt": 247,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "体育",
+        "code": "HYFL_R_89",
+        "hyCode": "R89",
+        "lft": 248,
+        "rgt": 249,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "娱乐业",
+        "code": "HYFL_R_90",
+        "hyCode": "R90",
+        "lft": 250,
+        "rgt": 251,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "公共管理、社会保障和社会组织",
+    "code": "HYFL_S",
+    "hyCode": "S",
+    "lft": 253,
+    "rgt": 266,
+    "level": 1,
+    "children": [
+      {
+        "hy": "中国共产党机关",
+        "code": "HYFL_S_91",
+        "hyCode": "S91",
+        "lft": 254,
+        "rgt": 255,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "国家机构",
+        "code": "HYFL_S_92",
+        "hyCode": "S92",
+        "lft": 256,
+        "rgt": 257,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "人民政协、民主党派",
+        "code": "HYFL_S_93",
+        "hyCode": "S93",
+        "lft": 258,
+        "rgt": 259,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "社会保障",
+        "code": "HYFL_S_94",
+        "hyCode": "S94",
+        "lft": 260,
+        "rgt": 261,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "群众团体、社会团体和其他成员组织",
+        "code": "HYFL_S_95",
+        "hyCode": "S95",
+        "lft": 262,
+        "rgt": 263,
+        "level": 2,
+        "children": null
+      },
+      {
+        "hy": "基层群众自治组织及其他组织",
+        "code": "HYFL_S_96",
+        "hyCode": "S96",
+        "lft": 264,
+        "rgt": 265,
+        "level": 2,
+        "children": null
+      }
+    ]
+  },
+  {
+    "hy": "国际组织",
+    "code": "HYFL_T",
+    "hyCode": "T",
+    "lft": 267,
+    "rgt": 270,
+    "level": 1,
+    "children": [
+      {
+        "hy": "国际组织",
+        "code": "HYFL_T_97",
+        "hyCode": "T97",
+        "lft": 268,
+        "rgt": 269,
+        "level": 2,
+        "children": null
+      }
+    ]
+  }
+]
+

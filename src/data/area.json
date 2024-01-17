@@ -1,0 +1,2816 @@
+[
+  {
+    "id": "617a57b41319d93d0d8c19de",
+    "spareId": null,
+    "label": "北京市",
+    "value": "110000",
+    "children": [
+      {
+        "id": "617a57b51319d93d0d8c19e0",
+        "spareId": null,
+        "label": "东城区",
+        "value": "110101"
+      },
+      {
+        "id": "617a57b61319d93d0d8c19e1",
+        "spareId": null,
+        "label": "西城区",
+        "value": "110102"
+      },
+      {
+        "id": "617a57b61319d93d0d8c19e2",
+        "spareId": null,
+        "label": "朝阳区",
+        "value": "110105"
+      },
+      {
+        "id": "617a57b61319d93d0d8c19e3",
+        "spareId": null,
+        "label": "丰台区",
+        "value": "110106"
+      },
+      {
+        "id": "617a57b71319d93d0d8c19e4",
+        "spareId": null,
+        "label": "石景山区",
+        "value": "110107"
+      },
+      {
+        "id": "617a57b71319d93d0d8c19e5",
+        "spareId": null,
+        "label": "海淀区",
+        "value": "110108"
+      },
+      {
+        "id": "617a57b81319d93d0d8c19e6",
+        "spareId": null,
+        "label": "门头沟区",
+        "value": "110109"
+      },
+      {
+        "id": "617a57b81319d93d0d8c19e7",
+        "spareId": null,
+        "label": "房山区",
+        "value": "110111"
+      },
+      {
+        "id": "617a57b91319d93d0d8c19e8",
+        "spareId": null,
+        "label": "通州区",
+        "value": "110112"
+      },
+      {
+        "id": "617a57b91319d93d0d8c19e9",
+        "spareId": null,
+        "label": "顺义区",
+        "value": "110113"
+      },
+      {
+        "id": "617a57b91319d93d0d8c19ea",
+        "spareId": null,
+        "label": "昌平区",
+        "value": "110114"
+      },
+      {
+        "id": "617a57b91319d93d0d8c19eb",
+        "spareId": null,
+        "label": "大兴区",
+        "value": "110115"
+      },
+      {
+        "id": "617a57ba1319d93d0d8c19ec",
+        "spareId": null,
+        "label": "怀柔区",
+        "value": "110116"
+      },
+      {
+        "id": "617a57ba1319d93d0d8c19ed",
+        "spareId": null,
+        "label": "平谷区",
+        "value": "110117"
+      },
+      {
+        "id": "617a57ba1319d93d0d8c19ee",
+        "spareId": null,
+        "label": "密云区",
+        "value": "110118"
+      },
+      {
+        "id": "617a57ba1319d93d0d8c19ef",
+        "spareId": null,
+        "label": "延庆区",
+        "value": "110119"
+      }
+    ]
+  },
+  {
+    "id": "617a57bb1319d93d0d8c19f0",
+    "spareId": null,
+    "label": "天津市",
+    "value": "120000",
+    "children": [
+      {
+        "id": "617a57bd1319d93d0d8c19f2",
+        "spareId": null,
+        "label": "和平区",
+        "value": "120101"
+      },
+      {
+        "id": "617a57bd1319d93d0d8c19f3",
+        "spareId": null,
+        "label": "河东区",
+        "value": "120102"
+      },
+      {
+        "id": "617a57bd1319d93d0d8c19f4",
+        "spareId": null,
+        "label": "河西区",
+        "value": "120103"
+      },
+      {
+        "id": "617a57be1319d93d0d8c19f5",
+        "spareId": null,
+        "label": "南开区",
+        "value": "120104"
+      },
+      {
+        "id": "617a57be1319d93d0d8c19f6",
+        "spareId": null,
+        "label": "河北区",
+        "value": "120105"
+      },
+      {
+        "id": "617a57bf1319d93d0d8c19f7",
+        "spareId": null,
+        "label": "红桥区",
+        "value": "120106"
+      },
+      {
+        "id": "617a57bf1319d93d0d8c19f8",
+        "spareId": null,
+        "label": "东丽区",
+        "value": "120110"
+      },
+      {
+        "id": "617a57c01319d93d0d8c19f9",
+        "spareId": null,
+        "label": "西青区",
+        "value": "120111"
+      },
+      {
+        "id": "617a57c01319d93d0d8c19fa",
+        "spareId": null,
+        "label": "津南区",
+        "value": "120112"
+      },
+      {
+        "id": "617a57c01319d93d0d8c19fb",
+        "spareId": null,
+        "label": "北辰区",
+        "value": "120113"
+      },
+      {
+        "id": "617a57c11319d93d0d8c19fc",
+        "spareId": null,
+        "label": "武清区",
+        "value": "120114"
+      },
+      {
+        "id": "617a57c11319d93d0d8c19fd",
+        "spareId": null,
+        "label": "宝坻区",
+        "value": "120115"
+      },
+      {
+        "id": "617a57c11319d93d0d8c19fe",
+        "spareId": null,
+        "label": "滨海新区",
+        "value": "120116"
+      },
+      {
+        "id": "617a57c21319d93d0d8c19ff",
+        "spareId": null,
+        "label": "宁河区",
+        "value": "120117"
+      },
+      {
+        "id": "617a57c21319d93d0d8c1a00",
+        "spareId": null,
+        "label": "静海区",
+        "value": "120118"
+      },
+      {
+        "id": "617a57c31319d93d0d8c1a01",
+        "spareId": null,
+        "label": "蓟州区",
+        "value": "120119"
+      }
+    ]
+  },
+  {
+    "id": "617a57c31319d93d0d8c1a02",
+    "spareId": null,
+    "label": "河北省",
+    "value": "130000",
+    "children": [
+      {
+        "id": "617a57c31319d93d0d8c1a03",
+        "spareId": null,
+        "label": "石家庄市",
+        "value": "130100"
+      },
+      {
+        "id": "617a57cb1319d93d0d8c1a1a",
+        "spareId": null,
+        "label": "唐山市",
+        "value": "130200"
+      },
+      {
+        "id": "617a57d01319d93d0d8c1a29",
+        "spareId": null,
+        "label": "秦皇岛市",
+        "value": "130300"
+      },
+      {
+        "id": "617a57d41319d93d0d8c1a31",
+        "spareId": null,
+        "label": "邯郸市",
+        "value": "130400"
+      },
+      {
+        "id": "617a57dd1319d93d0d8c1a44",
+        "spareId": null,
+        "label": "邢台市",
+        "value": "130500"
+      },
+      {
+        "id": "617a57e61319d93d0d8c1a57",
+        "spareId": null,
+        "label": "保定市",
+        "value": "130600"
+      },
+      {
+        "id": "617a57ed1319d93d0d8c1a70",
+        "spareId": null,
+        "label": "张家口市",
+        "value": "130700"
+      },
+      {
+        "id": "617a57f31319d93d0d8c1a81",
+        "spareId": null,
+        "label": "承德市",
+        "value": "130800"
+      },
+      {
+        "id": "617a57f51319d93d0d8c1a8d",
+        "spareId": null,
+        "label": "沧州市",
+        "value": "130900"
+      },
+      {
+        "id": "617a57f91319d93d0d8c1a9e",
+        "spareId": null,
+        "label": "廊坊市",
+        "value": "131000"
+      },
+      {
+        "id": "617a57fd1319d93d0d8c1aa9",
+        "spareId": null,
+        "label": "衡水市",
+        "value": "131100"
+      }
+    ]
+  },
+  {
+    "id": "617a57ff1319d93d0d8c1ab5",
+    "spareId": null,
+    "label": "山西省",
+    "value": "140000",
+    "children": [
+      {
+        "id": "617a57ff1319d93d0d8c1ab6",
+        "spareId": null,
+        "label": "太原市",
+        "value": "140100"
+      },
+      {
+        "id": "617a58051319d93d0d8c1ac1",
+        "spareId": null,
+        "label": "大同市",
+        "value": "140200"
+      },
+      {
+        "id": "617a58071319d93d0d8c1acc",
+        "spareId": null,
+        "label": "阳泉市",
+        "value": "140300"
+      },
+      {
+        "id": "617a58091319d93d0d8c1ad2",
+        "spareId": null,
+        "label": "长治市",
+        "value": "140400"
+      },
+      {
+        "id": "617a580c1319d93d0d8c1adf",
+        "spareId": null,
+        "label": "晋城市",
+        "value": "140500"
+      },
+      {
+        "id": "617a580d1319d93d0d8c1ae6",
+        "spareId": null,
+        "label": "朔州市",
+        "value": "140600"
+      },
+      {
+        "id": "617a580f1319d93d0d8c1aed",
+        "spareId": null,
+        "label": "晋中市",
+        "value": "140700"
+      },
+      {
+        "id": "617a58121319d93d0d8c1af9",
+        "spareId": null,
+        "label": "运城市",
+        "value": "140800"
+      },
+      {
+        "id": "617a58141319d93d0d8c1b07",
+        "spareId": null,
+        "label": "忻州市",
+        "value": "140900"
+      },
+      {
+        "id": "617a58181319d93d0d8c1b16",
+        "spareId": null,
+        "label": "临汾市",
+        "value": "141000"
+      },
+      {
+        "id": "617a581c1319d93d0d8c1b28",
+        "spareId": null,
+        "label": "吕梁市",
+        "value": "141100"
+      }
+    ]
+  },
+  {
+    "id": "617a581e1319d93d0d8c1b36",
+    "spareId": null,
+    "label": "内蒙古自治区",
+    "value": "150000",
+    "children": [
+      {
+        "id": "617a581e1319d93d0d8c1b37",
+        "spareId": null,
+        "label": "呼和浩特市",
+        "value": "150100"
+      },
+      {
+        "id": "617a58201319d93d0d8c1b41",
+        "spareId": null,
+        "label": "包头市",
+        "value": "150200"
+      },
+      {
+        "id": "617a58221319d93d0d8c1b4b",
+        "spareId": null,
+        "label": "乌海市",
+        "value": "150300"
+      },
+      {
+        "id": "617a58231319d93d0d8c1b4f",
+        "spareId": null,
+        "label": "赤峰市",
+        "value": "150400"
+      },
+      {
+        "id": "617a58251319d93d0d8c1b5c",
+        "spareId": null,
+        "label": "通辽市",
+        "value": "150500"
+      },
+      {
+        "id": "617a58261319d93d0d8c1b65",
+        "spareId": null,
+        "label": "鄂尔多斯市",
+        "value": "150600"
+      },
+      {
+        "id": "617a58281319d93d0d8c1b6f",
+        "spareId": null,
+        "label": "呼伦贝尔市",
+        "value": "150700"
+      },
+      {
+        "id": "617a582b1319d93d0d8c1b7e",
+        "spareId": null,
+        "label": "巴彦淖尔市",
+        "value": "150800"
+      },
+      {
+        "id": "617a582d1319d93d0d8c1b86",
+        "spareId": null,
+        "label": "乌兰察布市",
+        "value": "150900"
+      },
+      {
+        "id": "617a582f1319d93d0d8c1b92",
+        "spareId": null,
+        "label": "兴安盟",
+        "value": "152200"
+      },
+      {
+        "id": "617a58301319d93d0d8c1b99",
+        "spareId": null,
+        "label": "锡林郭勒盟",
+        "value": "152500"
+      },
+      {
+        "id": "617a58331319d93d0d8c1ba6",
+        "spareId": null,
+        "label": "阿拉善盟",
+        "value": "152900"
+      }
+    ]
+  },
+  {
+    "id": "617a58331319d93d0d8c1baa",
+    "spareId": null,
+    "label": "辽宁省",
+    "value": "210000",
+    "children": [
+      {
+        "id": "617a58341319d93d0d8c1bab",
+        "spareId": null,
+        "label": "沈阳市",
+        "value": "210100"
+      },
+      {
+        "id": "617a58361319d93d0d8c1bb9",
+        "spareId": null,
+        "label": "大连市",
+        "value": "210200"
+      },
+      {
+        "id": "617a58381319d93d0d8c1bc4",
+        "spareId": null,
+        "label": "鞍山市",
+        "value": "210300"
+      },
+      {
+        "id": "617a583a1319d93d0d8c1bcc",
+        "spareId": null,
+        "label": "抚顺市",
+        "value": "210400"
+      },
+      {
+        "id": "617a583b1319d93d0d8c1bd4",
+        "spareId": null,
+        "label": "本溪市",
+        "value": "210500"
+      },
+      {
+        "id": "617a583c1319d93d0d8c1bdb",
+        "spareId": null,
+        "label": "丹东市",
+        "value": "210600"
+      },
+      {
+        "id": "617a583d1319d93d0d8c1be2",
+        "spareId": null,
+        "label": "锦州市",
+        "value": "210700"
+      },
+      {
+        "id": "617a583f1319d93d0d8c1bea",
+        "spareId": null,
+        "label": "营口市",
+        "value": "210800"
+      },
+      {
+        "id": "617a58411319d93d0d8c1bf1",
+        "spareId": null,
+        "label": "阜新市",
+        "value": "210900"
+      },
+      {
+        "id": "617a58421319d93d0d8c1bf9",
+        "spareId": null,
+        "label": "辽阳市",
+        "value": "211000"
+      },
+      {
+        "id": "617a58431319d93d0d8c1c01",
+        "spareId": null,
+        "label": "盘锦市",
+        "value": "211100"
+      },
+      {
+        "id": "617a58441319d93d0d8c1c06",
+        "spareId": null,
+        "label": "铁岭市",
+        "value": "211200"
+      },
+      {
+        "id": "617a58451319d93d0d8c1c0e",
+        "spareId": null,
+        "label": "朝阳市",
+        "value": "211300"
+      },
+      {
+        "id": "617a58471319d93d0d8c1c16",
+        "spareId": null,
+        "label": "葫芦岛市",
+        "value": "211400"
+      }
+    ]
+  },
+  {
+    "id": "617a58481319d93d0d8c1c1d",
+    "spareId": null,
+    "label": "吉林省",
+    "value": "220000",
+    "children": [
+      {
+        "id": "617a58481319d93d0d8c1c1e",
+        "spareId": null,
+        "label": "长春市",
+        "value": "220100"
+      },
+      {
+        "id": "617a584a1319d93d0d8c1c2a",
+        "spareId": null,
+        "label": "吉林市",
+        "value": "220200"
+      },
+      {
+        "id": "617a584c1319d93d0d8c1c34",
+        "spareId": null,
+        "label": "四平市",
+        "value": "220300"
+      },
+      {
+        "id": "617a584d1319d93d0d8c1c3a",
+        "spareId": null,
+        "label": "辽源市",
+        "value": "220400"
+      },
+      {
+        "id": "617a584f1319d93d0d8c1c3f",
+        "spareId": null,
+        "label": "通化市",
+        "value": "220500"
+      },
+      {
+        "id": "617a58501319d93d0d8c1c47",
+        "spareId": null,
+        "label": "白山市",
+        "value": "220600"
+      },
+      {
+        "id": "617a58511319d93d0d8c1c4e",
+        "spareId": null,
+        "label": "松原市",
+        "value": "220700"
+      },
+      {
+        "id": "617a58521319d93d0d8c1c54",
+        "spareId": null,
+        "label": "白城市",
+        "value": "220800"
+      },
+      {
+        "id": "617a58531319d93d0d8c1c5a",
+        "spareId": null,
+        "label": "延边朝鲜族自治州",
+        "value": "222400"
+      }
+    ]
+  },
+  {
+    "id": "617a58541319d93d0d8c1c63",
+    "spareId": null,
+    "label": "黑龙江省",
+    "value": "230000",
+    "children": [
+      {
+        "id": "617a58551319d93d0d8c1c64",
+        "spareId": null,
+        "label": "哈尔滨市",
+        "value": "230100"
+      },
+      {
+        "id": "617a58591319d93d0d8c1c77",
+        "spareId": null,
+        "label": "齐齐哈尔市",
+        "value": "230200"
+      },
+      {
+        "id": "617a585c1319d93d0d8c1c88",
+        "spareId": null,
+        "label": "鸡西市",
+        "value": "230300"
+      },
+      {
+        "id": "617a585e1319d93d0d8c1c92",
+        "spareId": null,
+        "label": "鹤岗市",
+        "value": "230400"
+      },
+      {
+        "id": "617a58601319d93d0d8c1c9b",
+        "spareId": null,
+        "label": "双鸭山市",
+        "value": "230500"
+      },
+      {
+        "id": "617a58611319d93d0d8c1ca4",
+        "spareId": null,
+        "label": "大庆市",
+        "value": "230600"
+      },
+      {
+        "id": "617a58631319d93d0d8c1cae",
+        "spareId": null,
+        "label": "伊春市",
+        "value": "230700"
+      },
+      {
+        "id": "617a58651319d93d0d8c1cb9",
+        "spareId": null,
+        "label": "佳木斯市",
+        "value": "230800"
+      },
+      {
+        "id": "617a58681319d93d0d8c1cc4",
+        "spareId": null,
+        "label": "七台河市",
+        "value": "230900"
+      },
+      {
+        "id": "617a58691319d93d0d8c1cc9",
+        "spareId": null,
+        "label": "牡丹江市",
+        "value": "231000"
+      },
+      {
+        "id": "617a586b1319d93d0d8c1cd4",
+        "spareId": null,
+        "label": "黑河市",
+        "value": "231100"
+      },
+      {
+        "id": "617a586d1319d93d0d8c1cdb",
+        "spareId": null,
+        "label": "绥化市",
+        "value": "231200"
+      },
+      {
+        "id": "617a586f1319d93d0d8c1ce6",
+        "spareId": null,
+        "label": "大兴安岭地区",
+        "value": "232700"
+      }
+    ]
+  },
+  {
+    "id": "617a58701319d93d0d8c1ceb",
+    "spareId": null,
+    "label": "上海市",
+    "value": "310000",
+    "children": [
+      {
+        "id": "617a58701319d93d0d8c1cec",
+        "spareId": null,
+        "label": "上海城区",
+        "value": "310100"
+      }
+    ]
+  },
+  {
+    "id": "617a58721319d93d0d8c1cfd",
+    "spareId": null,
+    "label": "江苏省",
+    "value": "320000",
+    "children": [
+      {
+        "id": "617a58721319d93d0d8c1cfe",
+        "spareId": null,
+        "label": "南京市",
+        "value": "320100"
+      },
+      {
+        "id": "617a58771319d93d0d8c1d0a",
+        "spareId": null,
+        "label": "无锡市",
+        "value": "320200"
+      },
+      {
+        "id": "617a58781319d93d0d8c1d12",
+        "spareId": null,
+        "label": "徐州市",
+        "value": "320300"
+      },
+      {
+        "id": "617a587a1319d93d0d8c1d1d",
+        "spareId": null,
+        "label": "常州市",
+        "value": "320400"
+      },
+      {
+        "id": "617a587d1319d93d0d8c1d24",
+        "spareId": null,
+        "label": "苏州市",
+        "value": "320500"
+      },
+      {
+        "id": "617a58811319d93d0d8c1d2e",
+        "spareId": null,
+        "label": "南通市",
+        "value": "320600"
+      },
+      {
+        "id": "617a58851319d93d0d8c1d36",
+        "spareId": null,
+        "label": "连云港市",
+        "value": "320700"
+      },
+      {
+        "id": "617a58871319d93d0d8c1d3d",
+        "spareId": null,
+        "label": "淮安市",
+        "value": "320800"
+      },
+      {
+        "id": "617a588a1319d93d0d8c1d45",
+        "spareId": null,
+        "label": "盐城市",
+        "value": "320900"
+      },
+      {
+        "id": "617a588e1319d93d0d8c1d4f",
+        "spareId": null,
+        "label": "扬州市",
+        "value": "321000"
+      },
+      {
+        "id": "617a58921319d93d0d8c1d56",
+        "spareId": null,
+        "label": "镇江市",
+        "value": "321100"
+      },
+      {
+        "id": "617a58981319d93d0d8c1d5d",
+        "spareId": null,
+        "label": "泰州市",
+        "value": "321200"
+      },
+      {
+        "id": "617a589f1319d93d0d8c1d64",
+        "spareId": null,
+        "label": "宿迁市",
+        "value": "321300"
+      }
+    ]
+  },
+  {
+    "id": "617a58a41319d93d0d8c1d6a",
+    "spareId": null,
+    "label": "浙江省",
+    "value": "330000",
+    "children": [
+      {
+        "id": "617a58a41319d93d0d8c1d6b",
+        "spareId": null,
+        "label": "杭州市",
+        "value": "330100"
+      },
+      {
+        "id": "617a58af1319d93d0d8c1d79",
+        "spareId": null,
+        "label": "宁波市",
+        "value": "330200"
+      },
+      {
+        "id": "617a58b61319d93d0d8c1d84",
+        "spareId": null,
+        "label": "温州市",
+        "value": "330300"
+      },
+      {
+        "id": "617a58c31319d93d0d8c1d91",
+        "spareId": null,
+        "label": "嘉兴市",
+        "value": "330400"
+      },
+      {
+        "id": "617a58c81319d93d0d8c1d99",
+        "spareId": null,
+        "label": "湖州市",
+        "value": "330500"
+      },
+      {
+        "id": "617a58cc1319d93d0d8c1d9f",
+        "spareId": null,
+        "label": "绍兴市",
+        "value": "330600"
+      },
+      {
+        "id": "617a58d11319d93d0d8c1da6",
+        "spareId": null,
+        "label": "金华市",
+        "value": "330700"
+      },
+      {
+        "id": "617a58d51319d93d0d8c1db0",
+        "spareId": null,
+        "label": "衢州市",
+        "value": "330800"
+      },
+      {
+        "id": "617a58d91319d93d0d8c1db7",
+        "spareId": null,
+        "label": "舟山市",
+        "value": "330900"
+      },
+      {
+        "id": "617a58db1319d93d0d8c1dbc",
+        "spareId": null,
+        "label": "台州市",
+        "value": "331000"
+      },
+      {
+        "id": "617a58e31319d93d0d8c1dc6",
+        "spareId": null,
+        "label": "丽水市",
+        "value": "331100"
+      }
+    ]
+  },
+  {
+    "id": "617a58e81319d93d0d8c1dd0",
+    "spareId": null,
+    "label": "安徽省",
+    "value": "340000",
+    "children": [
+      {
+        "id": "617a58e81319d93d0d8c1dd1",
+        "spareId": null,
+        "label": "合肥市",
+        "value": "340100"
+      },
+      {
+        "id": "617a58ed1319d93d0d8c1ddb",
+        "spareId": null,
+        "label": "芜湖市",
+        "value": "340200"
+      },
+      {
+        "id": "617a58f21319d93d0d8c1de3",
+        "spareId": null,
+        "label": "蚌埠市",
+        "value": "340300"
+      },
+      {
+        "id": "617a58f51319d93d0d8c1deb",
+        "spareId": null,
+        "label": "淮南市",
+        "value": "340400"
+      },
+      {
+        "id": "617a58f81319d93d0d8c1df3",
+        "spareId": null,
+        "label": "马鞍山市",
+        "value": "340500"
+      },
+      {
+        "id": "617a58fb1319d93d0d8c1dfa",
+        "spareId": null,
+        "label": "淮北市",
+        "value": "340600"
+      },
+      {
+        "id": "617a58fe1319d93d0d8c1dff",
+        "spareId": null,
+        "label": "铜陵市",
+        "value": "340700"
+      },
+      {
+        "id": "617a58ff1319d93d0d8c1e04",
+        "spareId": null,
+        "label": "安庆市",
+        "value": "340800"
+      },
+      {
+        "id": "617a59041319d93d0d8c1e0f",
+        "spareId": null,
+        "label": "黄山市",
+        "value": "341000"
+      },
+      {
+        "id": "617a59081319d93d0d8c1e17",
+        "spareId": null,
+        "label": "滁州市",
+        "value": "341100"
+      },
+      {
+        "id": "617a590b1319d93d0d8c1e20",
+        "spareId": null,
+        "label": "阜阳市",
+        "value": "341200"
+      },
+      {
+        "id": "617a590e1319d93d0d8c1e29",
+        "spareId": null,
+        "label": "宿州市",
+        "value": "341300"
+      },
+      {
+        "id": "617a590f1319d93d0d8c1e2f",
+        "spareId": null,
+        "label": "六安市",
+        "value": "341500"
+      },
+      {
+        "id": "617a59111319d93d0d8c1e37",
+        "spareId": null,
+        "label": "亳州市",
+        "value": "341600"
+      },
+      {
+        "id": "617a59131319d93d0d8c1e3c",
+        "spareId": null,
+        "label": "池州市",
+        "value": "341700"
+      },
+      {
+        "id": "617a59141319d93d0d8c1e41",
+        "spareId": null,
+        "label": "宣城市",
+        "value": "341800"
+      }
+    ]
+  },
+  {
+    "id": "617a59161319d93d0d8c1e49",
+    "spareId": null,
+    "label": "福建省",
+    "value": "350000",
+    "children": [
+      {
+        "id": "617a59161319d93d0d8c1e4a",
+        "spareId": null,
+        "label": "福州市",
+        "value": "350100"
+      },
+      {
+        "id": "617a591a1319d93d0d8c1e58",
+        "spareId": null,
+        "label": "厦门市",
+        "value": "350200"
+      },
+      {
+        "id": "617a591b1319d93d0d8c1e5f",
+        "spareId": null,
+        "label": "莆田市",
+        "value": "350300"
+      },
+      {
+        "id": "617a591d1319d93d0d8c1e65",
+        "spareId": null,
+        "label": "三明市",
+        "value": "350400"
+      },
+      {
+        "id": "617a59201319d93d0d8c1e71",
+        "spareId": null,
+        "label": "泉州市",
+        "value": "350500"
+      },
+      {
+        "id": "617a59251319d93d0d8c1e7e",
+        "spareId": null,
+        "label": "漳州市",
+        "value": "350600"
+      },
+      {
+        "id": "617a59281319d93d0d8c1e8a",
+        "spareId": null,
+        "label": "南平市",
+        "value": "350700"
+      },
+      {
+        "id": "617a592b1319d93d0d8c1e95",
+        "spareId": null,
+        "label": "龙岩市",
+        "value": "350800"
+      },
+      {
+        "id": "617a592d1319d93d0d8c1e9d",
+        "spareId": null,
+        "label": "宁德市",
+        "value": "350900"
+      }
+    ]
+  },
+  {
+    "id": "617a592e1319d93d0d8c1ea7",
+    "spareId": null,
+    "label": "江西省",
+    "value": "360000",
+    "children": [
+      {
+        "id": "617a592f1319d93d0d8c1ea8",
+        "spareId": null,
+        "label": "南昌市",
+        "value": "360100"
+      },
+      {
+        "id": "617a59311319d93d0d8c1eb2",
+        "spareId": null,
+        "label": "景德镇市",
+        "value": "360200"
+      },
+      {
+        "id": "617a59321319d93d0d8c1eb7",
+        "spareId": null,
+        "label": "萍乡市",
+        "value": "360300"
+      },
+      {
+        "id": "617a59331319d93d0d8c1ebd",
+        "spareId": null,
+        "label": "九江市",
+        "value": "360400"
+      },
+      {
+        "id": "617a59361319d93d0d8c1ecb",
+        "spareId": null,
+        "label": "新余市",
+        "value": "360500"
+      },
+      {
+        "id": "617a59371319d93d0d8c1ed1",
+        "spareId": null,
+        "label": "鹰潭市",
+        "value": "360600"
+      },
+      {
+        "id": "617a59381319d93d0d8c1ed6",
+        "spareId": null,
+        "label": "赣州市",
+        "value": "360700"
+      },
+      {
+        "id": "617a593e1319d93d0d8c1ee9",
+        "spareId": null,
+        "label": "吉安市",
+        "value": "360800"
+      },
+      {
+        "id": "617a59431319d93d0d8c1ef7",
+        "spareId": null,
+        "label": "宜春市",
+        "value": "360900"
+      },
+      {
+        "id": "617a59451319d93d0d8c1f02",
+        "spareId": null,
+        "label": "抚州市",
+        "value": "361000"
+      },
+      {
+        "id": "617a59471319d93d0d8c1f0e",
+        "spareId": null,
+        "label": "上饶市",
+        "value": "361100"
+      }
+    ]
+  },
+  {
+    "id": "617a594a1319d93d0d8c1f1b",
+    "spareId": null,
+    "label": "山东省",
+    "value": "370000",
+    "children": [
+      {
+        "id": "617a594a1319d93d0d8c1f1c",
+        "spareId": null,
+        "label": "济南市",
+        "value": "370100"
+      },
+      {
+        "id": "617a594e1319d93d0d8c1f29",
+        "spareId": null,
+        "label": "青岛市",
+        "value": "370200"
+      },
+      {
+        "id": "617a59501319d93d0d8c1f34",
+        "spareId": null,
+        "label": "淄博市",
+        "value": "370300"
+      },
+      {
+        "id": "617a59521319d93d0d8c1f3d",
+        "spareId": null,
+        "label": "枣庄市",
+        "value": "370400"
+      },
+      {
+        "id": "617a59541319d93d0d8c1f44",
+        "spareId": null,
+        "label": "东营市",
+        "value": "370500"
+      },
+      {
+        "id": "617a59551319d93d0d8c1f4a",
+        "spareId": null,
+        "label": "烟台市",
+        "value": "370600"
+      },
+      {
+        "id": "617a59581319d93d0d8c1f56",
+        "spareId": null,
+        "label": "潍坊市",
+        "value": "370700"
+      },
+      {
+        "id": "617a595b1319d93d0d8c1f63",
+        "spareId": null,
+        "label": "济宁市",
+        "value": "370800"
+      },
+      {
+        "id": "617a595e1319d93d0d8c1f6f",
+        "spareId": null,
+        "label": "泰安市",
+        "value": "370900"
+      },
+      {
+        "id": "617a595f1319d93d0d8c1f76",
+        "spareId": null,
+        "label": "威海市",
+        "value": "371000"
+      },
+      {
+        "id": "617a59601319d93d0d8c1f7b",
+        "spareId": null,
+        "label": "日照市",
+        "value": "371100"
+      },
+      {
+        "id": "617a59621319d93d0d8c1f80",
+        "spareId": null,
+        "label": "临沂市",
+        "value": "371300"
+      },
+      {
+        "id": "617a59651319d93d0d8c1f8d",
+        "spareId": null,
+        "label": "德州市",
+        "value": "371400"
+      },
+      {
+        "id": "617a59681319d93d0d8c1f99",
+        "spareId": null,
+        "label": "聊城市",
+        "value": "371500"
+      },
+      {
+        "id": "617a596a1319d93d0d8c1fa2",
+        "spareId": null,
+        "label": "滨州市",
+        "value": "371600"
+      },
+      {
+        "id": "617a596c1319d93d0d8c1faa",
+        "spareId": null,
+        "label": "菏泽市",
+        "value": "371700"
+      }
+    ]
+  },
+  {
+    "id": "617a596e1319d93d0d8c1fb4",
+    "spareId": null,
+    "label": "河南省",
+    "value": "410000",
+    "children": [
+      {
+        "id": "617a596f1319d93d0d8c1fb5",
+        "spareId": null,
+        "label": "郑州市",
+        "value": "410100"
+      },
+      {
+        "id": "617a59721319d93d0d8c1fc2",
+        "spareId": null,
+        "label": "开封市",
+        "value": "410200"
+      },
+      {
+        "id": "617a59741319d93d0d8c1fcc",
+        "spareId": null,
+        "label": "洛阳市",
+        "value": "410300"
+      },
+      {
+        "id": "617a59781319d93d0d8c1fdb",
+        "spareId": null,
+        "label": "平顶山市",
+        "value": "410400"
+      },
+      {
+        "id": "617a597c1319d93d0d8c1fe6",
+        "spareId": null,
+        "label": "安阳市",
+        "value": "410500"
+      },
+      {
+        "id": "617a597f1319d93d0d8c1ff0",
+        "spareId": null,
+        "label": "鹤壁市",
+        "value": "410600"
+      },
+      {
+        "id": "617a59801319d93d0d8c1ff6",
+        "spareId": null,
+        "label": "新乡市",
+        "value": "410700"
+      },
+      {
+        "id": "617a59831319d93d0d8c2003",
+        "spareId": null,
+        "label": "焦作市",
+        "value": "410800"
+      },
+      {
+        "id": "617a59851319d93d0d8c200e",
+        "spareId": null,
+        "label": "濮阳市",
+        "value": "410900"
+      },
+      {
+        "id": "617a59861319d93d0d8c2015",
+        "spareId": null,
+        "label": "许昌市",
+        "value": "411000"
+      },
+      {
+        "id": "617a59871319d93d0d8c201c",
+        "spareId": null,
+        "label": "漯河市",
+        "value": "411100"
+      },
+      {
+        "id": "617a59881319d93d0d8c2022",
+        "spareId": null,
+        "label": "三门峡市",
+        "value": "411200"
+      },
+      {
+        "id": "617a598a1319d93d0d8c2029",
+        "spareId": null,
+        "label": "南阳市",
+        "value": "411300"
+      },
+      {
+        "id": "617a598d1319d93d0d8c2037",
+        "spareId": null,
+        "label": "商丘市",
+        "value": "411400"
+      },
+      {
+        "id": "617a598e1319d93d0d8c2041",
+        "spareId": null,
+        "label": "信阳市",
+        "value": "411500"
+      },
+      {
+        "id": "617a59901319d93d0d8c204c",
+        "spareId": null,
+        "label": "周口市",
+        "value": "411600"
+      },
+      {
+        "id": "617a59921319d93d0d8c2057",
+        "spareId": null,
+        "label": "驻马店市",
+        "value": "411700"
+      },
+      {
+        "id": "617a59941319d93d0d8c2062",
+        "spareId": null,
+        "label": "济源市",
+        "value": "419001"
+      }
+    ]
+  },
+  {
+    "id": "617a59971319d93d0d8c2073",
+    "spareId": null,
+    "label": "湖北省",
+    "value": "420000",
+    "children": [
+      {
+        "id": "617a59971319d93d0d8c2074",
+        "spareId": null,
+        "label": "武汉市",
+        "value": "420100"
+      },
+      {
+        "id": "617a599a1319d93d0d8c2082",
+        "spareId": null,
+        "label": "黄石市",
+        "value": "420200"
+      },
+      {
+        "id": "617a599c1319d93d0d8c2089",
+        "spareId": null,
+        "label": "十堰市",
+        "value": "420300"
+      },
+      {
+        "id": "617a599d1319d93d0d8c2092",
+        "spareId": null,
+        "label": "宜昌市",
+        "value": "420500"
+      },
+      {
+        "id": "617a59a01319d93d0d8c20a0",
+        "spareId": null,
+        "label": "襄阳市",
+        "value": "420600"
+      },
+      {
+        "id": "617a59a21319d93d0d8c20aa",
+        "spareId": null,
+        "label": "鄂州市",
+        "value": "420700"
+      },
+      {
+        "id": "617a59a31319d93d0d8c20ae",
+        "spareId": null,
+        "label": "荆门市",
+        "value": "420800"
+      },
+      {
+        "id": "617a59a41319d93d0d8c20b4",
+        "spareId": null,
+        "label": "孝感市",
+        "value": "420900"
+      },
+      {
+        "id": "617a59a51319d93d0d8c20bc",
+        "spareId": null,
+        "label": "荆州市",
+        "value": "421000"
+      },
+      {
+        "id": "617a59a81319d93d0d8c20c5",
+        "spareId": null,
+        "label": "黄冈市",
+        "value": "421100"
+      },
+      {
+        "id": "617a59ac1319d93d0d8c20d0",
+        "spareId": null,
+        "label": "咸宁市",
+        "value": "421200"
+      },
+      {
+        "id": "617a59b21319d93d0d8c20d7",
+        "spareId": null,
+        "label": "随州市",
+        "value": "421300"
+      },
+      {
+        "id": "617a59b71319d93d0d8c20db",
+        "spareId": null,
+        "label": "恩施土家族苗族自治州",
+        "value": "422800"
+      },
+      {
+        "id": "617a59bf1319d93d0d8c20e4",
+        "spareId": null,
+        "label": "仙桃市",
+        "value": "429004"
+      },
+      {
+        "id": "617a59d81319d93d0d8c20fe",
+        "spareId": null,
+        "label": "潜江市",
+        "value": "429005"
+      },
+      {
+        "id": "617a59ea1319d93d0d8c2118",
+        "spareId": null,
+        "label": "天门市",
+        "value": "429006"
+      },
+      {
+        "id": "617a59f71319d93d0d8c2135",
+        "spareId": null,
+        "label": "神农架林区",
+        "value": "429021"
+      }
+    ]
+  },
+  {
+    "id": "617a59fc1319d93d0d8c213e",
+    "spareId": null,
+    "label": "湖南省",
+    "value": "430000",
+    "children": [
+      {
+        "id": "617a59fd1319d93d0d8c213f",
+        "spareId": null,
+        "label": "长沙市",
+        "value": "430100"
+      },
+      {
+        "id": "617a5a031319d93d0d8c2149",
+        "spareId": null,
+        "label": "株洲市",
+        "value": "430200"
+      },
+      {
+        "id": "617a5a0a1319d93d0d8c2153",
+        "spareId": null,
+        "label": "湘潭市",
+        "value": "430300"
+      },
+      {
+        "id": "617a5a0f1319d93d0d8c2159",
+        "spareId": null,
+        "label": "衡阳市",
+        "value": "430400"
+      },
+      {
+        "id": "617a5a171319d93d0d8c2166",
+        "spareId": null,
+        "label": "邵阳市",
+        "value": "430500"
+      },
+      {
+        "id": "617a5a201319d93d0d8c2173",
+        "spareId": null,
+        "label": "岳阳市",
+        "value": "430600"
+      },
+      {
+        "id": "617a5a241319d93d0d8c217d",
+        "spareId": null,
+        "label": "常德市",
+        "value": "430700"
+      },
+      {
+        "id": "617a5a2b1319d93d0d8c2187",
+        "spareId": null,
+        "label": "张家界市",
+        "value": "430800"
+      },
+      {
+        "id": "617a5a2e1319d93d0d8c218c",
+        "spareId": null,
+        "label": "益阳市",
+        "value": "430900"
+      },
+      {
+        "id": "617a5a321319d93d0d8c2193",
+        "spareId": null,
+        "label": "郴州市",
+        "value": "431000"
+      },
+      {
+        "id": "617a5a371319d93d0d8c219f",
+        "spareId": null,
+        "label": "永州市",
+        "value": "431100"
+      },
+      {
+        "id": "617a5a3c1319d93d0d8c21ab",
+        "spareId": null,
+        "label": "怀化市",
+        "value": "431200"
+      },
+      {
+        "id": "617a5a421319d93d0d8c21b8",
+        "spareId": null,
+        "label": "娄底市",
+        "value": "431300"
+      },
+      {
+        "id": "617a5a461319d93d0d8c21be",
+        "spareId": null,
+        "label": "湘西土家族苗族自治州",
+        "value": "433100"
+      }
+    ]
+  },
+  {
+    "id": "617a5a4b1319d93d0d8c21c7",
+    "spareId": null,
+    "label": "广东省",
+    "value": "440000",
+    "children": [
+      {
+        "id": "617a5a4b1319d93d0d8c21c8",
+        "spareId": null,
+        "label": "广州市",
+        "value": "440100"
+      },
+      {
+        "id": "617a5a4f1319d93d0d8c21d4",
+        "spareId": null,
+        "label": "韶关市",
+        "value": "440200"
+      },
+      {
+        "id": "617a5a521319d93d0d8c21df",
+        "spareId": null,
+        "label": "深圳市",
+        "value": "440300"
+      },
+      {
+        "id": "617a5a561319d93d0d8c21e9",
+        "spareId": null,
+        "label": "珠海市",
+        "value": "440400"
+      },
+      {
+        "id": "617a5a581319d93d0d8c21ed",
+        "spareId": null,
+        "label": "汕头市",
+        "value": "440500"
+      },
+      {
+        "id": "617a5a5b1319d93d0d8c21f5",
+        "spareId": null,
+        "label": "佛山市",
+        "value": "440600"
+      },
+      {
+        "id": "617a5a5f1319d93d0d8c21fb",
+        "spareId": null,
+        "label": "江门市",
+        "value": "440700"
+      },
+      {
+        "id": "617a5a631319d93d0d8c2203",
+        "spareId": null,
+        "label": "湛江市",
+        "value": "440800"
+      },
+      {
+        "id": "617a5a661319d93d0d8c220d",
+        "spareId": null,
+        "label": "茂名市",
+        "value": "440900"
+      },
+      {
+        "id": "617a5a691319d93d0d8c2213",
+        "spareId": null,
+        "label": "肇庆市",
+        "value": "441200"
+      },
+      {
+        "id": "617a5a6c1319d93d0d8c221c",
+        "spareId": null,
+        "label": "惠州市",
+        "value": "441300"
+      },
+      {
+        "id": "617a5a6e1319d93d0d8c2222",
+        "spareId": null,
+        "label": "梅州市",
+        "value": "441400"
+      },
+      {
+        "id": "617a5a721319d93d0d8c222b",
+        "spareId": null,
+        "label": "汕尾市",
+        "value": "441500"
+      },
+      {
+        "id": "617a5a731319d93d0d8c2230",
+        "spareId": null,
+        "label": "河源市",
+        "value": "441600"
+      },
+      {
+        "id": "617a5a751319d93d0d8c2237",
+        "spareId": null,
+        "label": "阳江市",
+        "value": "441700"
+      },
+      {
+        "id": "617a5a761319d93d0d8c223c",
+        "spareId": null,
+        "label": "清远市",
+        "value": "441800"
+      },
+      {
+        "id": "617a5a7a1319d93d0d8c2245",
+        "spareId": null,
+        "label": "东莞市",
+        "value": "441900"
+      },
+      {
+        "id": "617a5a841319d93d0d8c2269",
+        "spareId": null,
+        "label": "中山市",
+        "value": "442000"
+      },
+      {
+        "id": "617a5a8b1319d93d0d8c2281",
+        "spareId": null,
+        "label": "潮州市",
+        "value": "445100"
+      },
+      {
+        "id": "617a5a8c1319d93d0d8c2285",
+        "spareId": null,
+        "label": "揭阳市",
+        "value": "445200"
+      },
+      {
+        "id": "617a5a8e1319d93d0d8c228b",
+        "spareId": null,
+        "label": "云浮市",
+        "value": "445300"
+      }
+    ]
+  },
+  {
+    "id": "617a5a8f1319d93d0d8c2291",
+    "spareId": null,
+    "label": "广西壮族自治区",
+    "value": "450000",
+    "children": [
+      {
+        "id": "617a5a901319d93d0d8c2292",
+        "spareId": null,
+        "label": "南宁市",
+        "value": "450100"
+      },
+      {
+        "id": "617a5a941319d93d0d8c229f",
+        "spareId": null,
+        "label": "柳州市",
+        "value": "450200"
+      },
+      {
+        "id": "617a5a971319d93d0d8c22aa",
+        "spareId": null,
+        "label": "桂林市",
+        "value": "450300"
+      },
+      {
+        "id": "617a5a9c1319d93d0d8c22bc",
+        "spareId": null,
+        "label": "梧州市",
+        "value": "450400"
+      },
+      {
+        "id": "617a5a9e1319d93d0d8c22c4",
+        "spareId": null,
+        "label": "北海市",
+        "value": "450500"
+      },
+      {
+        "id": "617a5aa01319d93d0d8c22c9",
+        "spareId": null,
+        "label": "防城港市",
+        "value": "450600"
+      },
+      {
+        "id": "617a5aa11319d93d0d8c22ce",
+        "spareId": null,
+        "label": "钦州市",
+        "value": "450700"
+      },
+      {
+        "id": "617a5aa21319d93d0d8c22d3",
+        "spareId": null,
+        "label": "贵港市",
+        "value": "450800"
+      },
+      {
+        "id": "617a5aa51319d93d0d8c22d9",
+        "spareId": null,
+        "label": "玉林市",
+        "value": "450900"
+      },
+      {
+        "id": "617a5aa71319d93d0d8c22e1",
+        "spareId": null,
+        "label": "百色市",
+        "value": "451000"
+      },
+      {
+        "id": "617a5aab1319d93d0d8c22ee",
+        "spareId": null,
+        "label": "贺州市",
+        "value": "451100"
+      },
+      {
+        "id": "617a5aac1319d93d0d8c22f4",
+        "spareId": null,
+        "label": "河池市",
+        "value": "451200"
+      },
+      {
+        "id": "617a5aaf1319d93d0d8c2300",
+        "spareId": null,
+        "label": "来宾市",
+        "value": "451300"
+      },
+      {
+        "id": "617a5ab11319d93d0d8c2307",
+        "spareId": null,
+        "label": "崇左市",
+        "value": "451400"
+      }
+    ]
+  },
+  {
+    "id": "617a5ab21319d93d0d8c230f",
+    "spareId": null,
+    "label": "海南省",
+    "value": "460000",
+    "children": [
+      {
+        "id": "617a5ab31319d93d0d8c2310",
+        "spareId": null,
+        "label": "海口市",
+        "value": "460100"
+      },
+      {
+        "id": "617a5ab41319d93d0d8c2315",
+        "spareId": null,
+        "label": "三亚市",
+        "value": "460200"
+      },
+      {
+        "id": "617a5ab51319d93d0d8c231a",
+        "spareId": null,
+        "label": "三沙市",
+        "value": "460300"
+      },
+      {
+        "id": "617a5ab61319d93d0d8c231d",
+        "spareId": null,
+        "label": "儋州市",
+        "value": "460400"
+      },
+      {
+        "id": "617a5abb1319d93d0d8c2335",
+        "spareId": null,
+        "label": "五指山市",
+        "value": "469001"
+      },
+      {
+        "id": "617a5abe1319d93d0d8c233e",
+        "spareId": null,
+        "label": "琼海市",
+        "value": "469002"
+      },
+      {
+        "id": "617a5ac21319d93d0d8c234f",
+        "spareId": null,
+        "label": "文昌市",
+        "value": "469005"
+      },
+      {
+        "id": "617a5ac71319d93d0d8c2364",
+        "spareId": null,
+        "label": "万宁市",
+        "value": "469006"
+      },
+      {
+        "id": "617a5ace1319d93d0d8c2376",
+        "spareId": null,
+        "label": "东方市",
+        "value": "469007"
+      },
+      {
+        "id": "617a5ad31319d93d0d8c2383",
+        "spareId": null,
+        "label": "定安县",
+        "value": "469021"
+      },
+      {
+        "id": "617a5adc1319d93d0d8c2392",
+        "spareId": null,
+        "label": "屯昌县",
+        "value": "469022"
+      },
+      {
+        "id": "617a5ae11319d93d0d8c239d",
+        "spareId": null,
+        "label": "澄迈县",
+        "value": "469023"
+      },
+      {
+        "id": "617a5aea1319d93d0d8c23af",
+        "spareId": null,
+        "label": "临高县",
+        "value": "469024"
+      },
+      {
+        "id": "617a5af01319d93d0d8c23bc",
+        "spareId": null,
+        "label": "白沙黎族自治县",
+        "value": "469025"
+      },
+      {
+        "id": "617a5af91319d93d0d8c23cb",
+        "spareId": null,
+        "label": "昌江黎族自治县",
+        "value": "469026"
+      },
+      {
+        "id": "617a5b021319d93d0d8c23d7",
+        "spareId": null,
+        "label": "乐东黎族自治县",
+        "value": "469027"
+      },
+      {
+        "id": "617a5b0e1319d93d0d8c23e8",
+        "spareId": null,
+        "label": "陵水黎族自治县",
+        "value": "469028"
+      },
+      {
+        "id": "617a5b1b1319d93d0d8c23f7",
+        "spareId": null,
+        "label": "保亭黎族苗族自治县",
+        "value": "469029"
+      },
+      {
+        "id": "617a5b271319d93d0d8c2405",
+        "spareId": null,
+        "label": "琼中黎族苗族自治县",
+        "value": "469030"
+      }
+    ]
+  },
+  {
+    "id": "617a5b351319d93d0d8c2415",
+    "spareId": null,
+    "label": "重庆市",
+    "value": "500000",
+    "children": [
+      {
+        "id": "617a5b371319d93d0d8c2416",
+        "spareId": null,
+        "label": "重庆城区",
+        "value": "500100"
+      },
+      {
+        "id": "617a5b4a1319d93d0d8c2431",
+        "spareId": null,
+        "label": "重庆郊县",
+        "value": "500200"
+      }
+    ]
+  },
+  {
+    "id": "617a5b521319d93d0d8c243e",
+    "spareId": null,
+    "label": "四川省",
+    "value": "510000",
+    "children": [
+      {
+        "id": "617a5b531319d93d0d8c243f",
+        "spareId": null,
+        "label": "成都市",
+        "value": "510100"
+      },
+      {
+        "id": "617a5b661319d93d0d8c2454",
+        "spareId": null,
+        "label": "自贡市",
+        "value": "510300"
+      },
+      {
+        "id": "617a5b6c1319d93d0d8c245b",
+        "spareId": null,
+        "label": "攀枝花市",
+        "value": "510400"
+      },
+      {
+        "id": "617a5b701319d93d0d8c2461",
+        "spareId": null,
+        "label": "泸州市",
+        "value": "510500"
+      },
+      {
+        "id": "617a5b761319d93d0d8c2469",
+        "spareId": null,
+        "label": "德阳市",
+        "value": "510600"
+      },
+      {
+        "id": "617a5b7b1319d93d0d8c2470",
+        "spareId": null,
+        "label": "绵阳市",
+        "value": "510700"
+      },
+      {
+        "id": "617a5b831319d93d0d8c247a",
+        "spareId": null,
+        "label": "广元市",
+        "value": "510800"
+      },
+      {
+        "id": "617a5b891319d93d0d8c2482",
+        "spareId": null,
+        "label": "遂宁市",
+        "value": "510900"
+      },
+      {
+        "id": "617a5b8f1319d93d0d8c2488",
+        "spareId": null,
+        "label": "内江市",
+        "value": "511000"
+      },
+      {
+        "id": "617a5b921319d93d0d8c248e",
+        "spareId": null,
+        "label": "乐山市",
+        "value": "511100"
+      },
+      {
+        "id": "617a5b9a1319d93d0d8c249a",
+        "spareId": null,
+        "label": "南充市",
+        "value": "511300"
+      },
+      {
+        "id": "617a5ba01319d93d0d8c24a4",
+        "spareId": null,
+        "label": "眉山市",
+        "value": "511400"
+      },
+      {
+        "id": "617a5ba61319d93d0d8c24ab",
+        "spareId": null,
+        "label": "宜宾市",
+        "value": "511500"
+      },
+      {
+        "id": "617a5bab1319d93d0d8c24b6",
+        "spareId": null,
+        "label": "广安市",
+        "value": "511600"
+      },
+      {
+        "id": "617a5bb01319d93d0d8c24bd",
+        "spareId": null,
+        "label": "达州市",
+        "value": "511700"
+      },
+      {
+        "id": "617a5bb51319d93d0d8c24c5",
+        "spareId": null,
+        "label": "雅安市",
+        "value": "511800"
+      },
+      {
+        "id": "617a5bb91319d93d0d8c24ce",
+        "spareId": null,
+        "label": "巴中市",
+        "value": "511900"
+      },
+      {
+        "id": "617a5bbe1319d93d0d8c24d4",
+        "spareId": null,
+        "label": "资阳市",
+        "value": "512000"
+      },
+      {
+        "id": "617a5bc01319d93d0d8c24d8",
+        "spareId": null,
+        "label": "阿坝藏族羌族自治州",
+        "value": "513200"
+      },
+      {
+        "id": "617a5bc91319d93d0d8c24e6",
+        "spareId": null,
+        "label": "甘孜藏族自治州",
+        "value": "513300"
+      },
+      {
+        "id": "617a5bd61319d93d0d8c24f9",
+        "spareId": null,
+        "label": "凉山彝族自治州",
+        "value": "513400"
+      }
+    ]
+  },
+  {
+    "id": "617a5be11319d93d0d8c250b",
+    "spareId": null,
+    "label": "贵州省",
+    "value": "520000",
+    "children": [
+      {
+        "id": "617a5be11319d93d0d8c250c",
+        "spareId": null,
+        "label": "贵阳市",
+        "value": "520100"
+      },
+      {
+        "id": "617a5be61319d93d0d8c2517",
+        "spareId": null,
+        "label": "六盘水市",
+        "value": "520200"
+      },
+      {
+        "id": "617a5be91319d93d0d8c251c",
+        "spareId": null,
+        "label": "遵义市",
+        "value": "520300"
+      },
+      {
+        "id": "617a5bee1319d93d0d8c252b",
+        "spareId": null,
+        "label": "安顺市",
+        "value": "520400"
+      },
+      {
+        "id": "617a5bf11319d93d0d8c2532",
+        "spareId": null,
+        "label": "毕节市",
+        "value": "520500"
+      },
+      {
+        "id": "617a5bf51319d93d0d8c253b",
+        "spareId": null,
+        "label": "铜仁市",
+        "value": "520600"
+      },
+      {
+        "id": "617a5bf91319d93d0d8c2546",
+        "spareId": null,
+        "label": "黔西南布依族苗族自治州",
+        "value": "522300"
+      },
+      {
+        "id": "617a5bfb1319d93d0d8c254f",
+        "spareId": null,
+        "label": "黔东南苗族侗族自治州",
+        "value": "522600"
+      },
+      {
+        "id": "617a5c021319d93d0d8c2560",
+        "spareId": null,
+        "label": "黔南布依族苗族自治州",
+        "value": "522700"
+      }
+    ]
+  },
+  {
+    "id": "617a5c0a1319d93d0d8c256d",
+    "spareId": null,
+    "label": "云南省",
+    "value": "530000",
+    "children": [
+      {
+        "id": "617a5c0a1319d93d0d8c256e",
+        "spareId": null,
+        "label": "昆明市",
+        "value": "530100"
+      },
+      {
+        "id": "617a5c1a1319d93d0d8c257d",
+        "spareId": null,
+        "label": "曲靖市",
+        "value": "530300"
+      },
+      {
+        "id": "617a5c221319d93d0d8c2587",
+        "spareId": null,
+        "label": "玉溪市",
+        "value": "530400"
+      },
+      {
+        "id": "617a5c271319d93d0d8c2591",
+        "spareId": null,
+        "label": "保山市",
+        "value": "530500"
+      },
+      {
+        "id": "617a5c2c1319d93d0d8c2597",
+        "spareId": null,
+        "label": "昭通市",
+        "value": "530600"
+      },
+      {
+        "id": "617a5c331319d93d0d8c25a3",
+        "spareId": null,
+        "label": "丽江市",
+        "value": "530700"
+      },
+      {
+        "id": "617a5c391319d93d0d8c25a9",
+        "spareId": null,
+        "label": "普洱市",
+        "value": "530800"
+      },
+      {
+        "id": "617a5c401319d93d0d8c25b4",
+        "spareId": null,
+        "label": "临沧市",
+        "value": "530900"
+      },
+      {
+        "id": "617a5c451319d93d0d8c25bd",
+        "spareId": null,
+        "label": "楚雄彝族自治州",
+        "value": "532300"
+      },
+      {
+        "id": "617a5c4c1319d93d0d8c25c8",
+        "spareId": null,
+        "label": "红河哈尼族彝族自治州",
+        "value": "532500"
+      },
+      {
+        "id": "617a5c541319d93d0d8c25d6",
+        "spareId": null,
+        "label": "文山壮族苗族自治州",
+        "value": "532600"
+      },
+      {
+        "id": "617a5c5a1319d93d0d8c25df",
+        "spareId": null,
+        "label": "西双版纳傣族自治州",
+        "value": "532800"
+      },
+      {
+        "id": "617a5c5b1319d93d0d8c25e4",
+        "spareId": null,
+        "label": "大理白族自治州",
+        "value": "532900"
+      },
+      {
+        "id": "617a5c631319d93d0d8c25f1",
+        "spareId": null,
+        "label": "德宏傣族景颇族自治州",
+        "value": "533100"
+      },
+      {
+        "id": "617a5c661319d93d0d8c25f7",
+        "spareId": null,
+        "label": "怒江傈僳族自治州",
+        "value": "533300"
+      },
+      {
+        "id": "617a5c681319d93d0d8c25fc",
+        "spareId": null,
+        "label": "迪庆藏族自治州",
+        "value": "533400"
+      }
+    ]
+  },
+  {
+    "id": "617a5c6a1319d93d0d8c2600",
+    "spareId": null,
+    "label": "西藏自治区",
+    "value": "540000",
+    "children": [
+      {
+        "id": "617a5c6a1319d93d0d8c2601",
+        "spareId": null,
+        "label": "拉萨市",
+        "value": "540100"
+      },
+      {
+        "id": "617a5c6e1319d93d0d8c260a",
+        "spareId": null,
+        "label": "日喀则市",
+        "value": "540200"
+      },
+      {
+        "id": "617a5c771319d93d0d8c261d",
+        "spareId": null,
+        "label": "昌都市",
+        "value": "540300"
+      },
+      {
+        "id": "617a5c7d1319d93d0d8c2629",
+        "spareId": null,
+        "label": "林芝市",
+        "value": "540400"
+      },
+      {
+        "id": "617a5c811319d93d0d8c2631",
+        "spareId": null,
+        "label": "山南市",
+        "value": "540500"
+      },
+      {
+        "id": "617a5c851319d93d0d8c263e",
+        "spareId": null,
+        "label": "那曲市",
+        "value": "540600"
+      },
+      {
+        "id": "617a5c8a1319d93d0d8c264a",
+        "spareId": null,
+        "label": "阿里地区",
+        "value": "542500"
+      }
+    ]
+  },
+  {
+    "id": "617a5c8c1319d93d0d8c2652",
+    "spareId": null,
+    "label": "陕西省",
+    "value": "610000",
+    "children": [
+      {
+        "id": "617a5c8d1319d93d0d8c2653",
+        "spareId": null,
+        "label": "西安市",
+        "value": "610100"
+      },
+      {
+        "id": "617a5c921319d93d0d8c2661",
+        "spareId": null,
+        "label": "铜川市",
+        "value": "610200"
+      },
+      {
+        "id": "617a5c941319d93d0d8c2666",
+        "spareId": null,
+        "label": "宝鸡市",
+        "value": "610300"
+      },
+      {
+        "id": "617a5c971319d93d0d8c2673",
+        "spareId": null,
+        "label": "咸阳市",
+        "value": "610400"
+      },
+      {
+        "id": "617a5c9a1319d93d0d8c2682",
+        "spareId": null,
+        "label": "渭南市",
+        "value": "610500"
+      },
+      {
+        "id": "617a5c9d1319d93d0d8c268e",
+        "spareId": null,
+        "label": "延安市",
+        "value": "610600"
+      },
+      {
+        "id": "617a5ca01319d93d0d8c269c",
+        "spareId": null,
+        "label": "汉中市",
+        "value": "610700"
+      },
+      {
+        "id": "617a5ca31319d93d0d8c26a8",
+        "spareId": null,
+        "label": "榆林市",
+        "value": "610800"
+      },
+      {
+        "id": "617a5ca51319d93d0d8c26b5",
+        "spareId": null,
+        "label": "安康市",
+        "value": "610900"
+      },
+      {
+        "id": "617a5ca81319d93d0d8c26c0",
+        "spareId": null,
+        "label": "商洛市",
+        "value": "611000"
+      }
+    ]
+  },
+  {
+    "id": "617a5caa1319d93d0d8c26c8",
+    "spareId": null,
+    "label": "甘肃省",
+    "value": "620000",
+    "children": [
+      {
+        "id": "617a5caa1319d93d0d8c26c9",
+        "spareId": null,
+        "label": "兰州市",
+        "value": "620100"
+      },
+      {
+        "id": "617a5cad1319d93d0d8c26d2",
+        "spareId": null,
+        "label": "嘉峪关市",
+        "value": "620200"
+      },
+      {
+        "id": "617a5cae1319d93d0d8c26d8",
+        "spareId": null,
+        "label": "金昌市",
+        "value": "620300"
+      },
+      {
+        "id": "617a5caf1319d93d0d8c26db",
+        "spareId": null,
+        "label": "白银市",
+        "value": "620400"
+      },
+      {
+        "id": "617a5cb11319d93d0d8c26e1",
+        "spareId": null,
+        "label": "天水市",
+        "value": "620500"
+      },
+      {
+        "id": "617a5cb21319d93d0d8c26e9",
+        "spareId": null,
+        "label": "武威市",
+        "value": "620600"
+      },
+      {
+        "id": "617a5cb31319d93d0d8c26ee",
+        "spareId": null,
+        "label": "张掖市",
+        "value": "620700"
+      },
+      {
+        "id": "617a5cb51319d93d0d8c26f5",
+        "spareId": null,
+        "label": "平凉市",
+        "value": "620800"
+      },
+      {
+        "id": "617a5cb61319d93d0d8c26fd",
+        "spareId": null,
+        "label": "酒泉市",
+        "value": "620900"
+      },
+      {
+        "id": "617a5cb81319d93d0d8c2705",
+        "spareId": null,
+        "label": "庆阳市",
+        "value": "621000"
+      },
+      {
+        "id": "617a5cba1319d93d0d8c270e",
+        "spareId": null,
+        "label": "定西市",
+        "value": "621100"
+      },
+      {
+        "id": "617a5cbb1319d93d0d8c2716",
+        "spareId": null,
+        "label": "陇南市",
+        "value": "621200"
+      },
+      {
+        "id": "617a5cbd1319d93d0d8c2720",
+        "spareId": null,
+        "label": "临夏回族自治州",
+        "value": "622900"
+      },
+      {
+        "id": "617a5cbe1319d93d0d8c2729",
+        "spareId": null,
+        "label": "甘南藏族自治州",
+        "value": "623000"
+      }
+    ]
+  },
+  {
+    "id": "617a5cc01319d93d0d8c2732",
+    "spareId": null,
+    "label": "青海省",
+    "value": "630000",
+    "children": [
+      {
+        "id": "617a5cc01319d93d0d8c2733",
+        "spareId": null,
+        "label": "西宁市",
+        "value": "630100"
+      },
+      {
+        "id": "617a5cc21319d93d0d8c273b",
+        "spareId": null,
+        "label": "海东市",
+        "value": "630200"
+      },
+      {
+        "id": "617a5cc41319d93d0d8c2742",
+        "spareId": null,
+        "label": "海北藏族自治州",
+        "value": "632200"
+      },
+      {
+        "id": "617a5cc51319d93d0d8c2747",
+        "spareId": null,
+        "label": "黄南藏族自治州",
+        "value": "632300"
+      },
+      {
+        "id": "617a5cc61319d93d0d8c274c",
+        "spareId": null,
+        "label": "海南藏族自治州",
+        "value": "632500"
+      },
+      {
+        "id": "617a5cc71319d93d0d8c2752",
+        "spareId": null,
+        "label": "果洛藏族自治州",
+        "value": "632600"
+      },
+      {
+        "id": "617a5cc81319d93d0d8c2759",
+        "spareId": null,
+        "label": "玉树藏族自治州",
+        "value": "632700"
+      },
+      {
+        "id": "617a5cc91319d93d0d8c2760",
+        "spareId": null,
+        "label": "海西蒙古族藏族自治州",
+        "value": "632800"
+      }
+    ]
+  },
+  {
+    "id": "617a5cca1319d93d0d8c2768",
+    "spareId": null,
+    "label": "宁夏回族自治区",
+    "value": "640000",
+    "children": [
+      {
+        "id": "617a5ccb1319d93d0d8c2769",
+        "spareId": null,
+        "label": "银川市",
+        "value": "640100"
+      },
+      {
+        "id": "617a5ccc1319d93d0d8c2770",
+        "spareId": null,
+        "label": "石嘴山市",
+        "value": "640200"
+      },
+      {
+        "id": "617a5ccd1319d93d0d8c2774",
+        "spareId": null,
+        "label": "吴忠市",
+        "value": "640300"
+      },
+      {
+        "id": "617a5cce1319d93d0d8c277a",
+        "spareId": null,
+        "label": "固原市",
+        "value": "640400"
+      },
+      {
+        "id": "617a5cce1319d93d0d8c2780",
+        "spareId": null,
+        "label": "中卫市",
+        "value": "640500"
+      }
+    ]
+  },
+  {
+    "id": "617a5ccf1319d93d0d8c2784",
+    "spareId": null,
+    "label": "新疆维吾尔自治区",
+    "value": "650000",
+    "children": [
+      {
+        "id": "617a5ccf1319d93d0d8c2785",
+        "spareId": null,
+        "label": "乌鲁木齐市",
+        "value": "650100"
+      },
+      {
+        "id": "617a5cd11319d93d0d8c278e",
+        "spareId": null,
+        "label": "克拉玛依市",
+        "value": "650200"
+      },
+      {
+        "id": "617a5cd21319d93d0d8c2793",
+        "spareId": null,
+        "label": "吐鲁番市",
+        "value": "650400"
+      },
+      {
+        "id": "617a5cd31319d93d0d8c2797",
+        "spareId": null,
+        "label": "哈密市",
+        "value": "650500"
+      },
+      {
+        "id": "617a5cd31319d93d0d8c279b",
+        "spareId": null,
+        "label": "昌吉回族自治州",
+        "value": "652300"
+      },
+      {
+        "id": "617a5cd51319d93d0d8c27a3",
+        "spareId": null,
+        "label": "博尔塔拉蒙古自治州",
+        "value": "652700"
+      },
+      {
+        "id": "617a5cd61319d93d0d8c27a8",
+        "spareId": null,
+        "label": "巴音郭楞蒙古自治州",
+        "value": "652800"
+      },
+      {
+        "id": "617a5cd81319d93d0d8c27b2",
+        "spareId": null,
+        "label": "阿克苏地区",
+        "value": "652900"
+      },
+      {
+        "id": "617a5cda1319d93d0d8c27bc",
+        "spareId": null,
+        "label": "克孜勒苏柯尔克孜自治州",
+        "value": "653000"
+      },
+      {
+        "id": "617a5cdb1319d93d0d8c27c1",
+        "spareId": null,
+        "label": "喀什地区",
+        "value": "653100"
+      },
+      {
+        "id": "617a5cdc1319d93d0d8c27ce",
+        "spareId": null,
+        "label": "和田地区",
+        "value": "653200"
+      },
+      {
+        "id": "617a5cde1319d93d0d8c27d7",
+        "spareId": null,
+        "label": "伊犁哈萨克自治州",
+        "value": "654000"
+      },
+      {
+        "id": "617a5ce01319d93d0d8c27e3",
+        "spareId": null,
+        "label": "塔城地区",
+        "value": "654200"
+      },
+      {
+        "id": "617a5ce11319d93d0d8c27eb",
+        "spareId": null,
+        "label": "阿勒泰地区",
+        "value": "654300"
+      },
+      {
+        "id": "617a5ce21319d93d0d8c27f3",
+        "spareId": null,
+        "label": "石河子市",
+        "value": "659001"
+      },
+      {
+        "id": "617a5ce41319d93d0d8c27fc",
+        "spareId": null,
+        "label": "阿拉尔市",
+        "value": "659002"
+      },
+      {
+        "id": "617a5ce71319d93d0d8c2810",
+        "spareId": null,
+        "label": "图木舒克市",
+        "value": "659003"
+      },
+      {
+        "id": "617a5ce91319d93d0d8c281b",
+        "spareId": null,
+        "label": "五家渠市",
+        "value": "659004"
+      },
+      {
+        "id": "617a5ceb1319d93d0d8c2822",
+        "spareId": null,
+        "label": "北屯市",
+        "value": "659005"
+      },
+      {
+        "id": "617a5cec1319d93d0d8c2827",
+        "spareId": null,
+        "label": "铁门关市",
+        "value": "659006"
+      },
+      {
+        "id": "617a5cec1319d93d0d8c282a",
+        "spareId": null,
+        "label": "双河市",
+        "value": "659007"
+      },
+      {
+        "id": "617a5ced1319d93d0d8c2830",
+        "spareId": null,
+        "label": "可克达拉市",
+        "value": "659008"
+      },
+      {
+        "id": "617a5cef1319d93d0d8c2837",
+        "spareId": null,
+        "label": "昆玉市",
+        "value": "659009"
+      },
+      {
+        "id": "617a5cf01319d93d0d8c2843",
+        "spareId": null,
+        "label": "胡杨河市",
+        "value": "659010"
+      }
+    ]
+  },
+  {
+    "id": "617a5cf11319d93d0d8c2848",
+    "spareId": null,
+    "label": "台湾省",
+    "value": "710000"
+  },
+  {
+    "id": "617a5cf21319d93d0d8c2849",
+    "spareId": null,
+    "label": "香港特别行政区",
+    "value": "810000",
+    "children": [
+      {
+        "id": "617a5cf21319d93d0d8c284a",
+        "spareId": null,
+        "label": "中西区",
+        "value": "810001"
+      },
+      {
+        "id": "617a5cf21319d93d0d8c284b",
+        "spareId": null,
+        "label": "湾仔区",
+        "value": "810002"
+      },
+      {
+        "id": "617a5cf21319d93d0d8c284c",
+        "spareId": null,
+        "label": "东区",
+        "value": "810003"
+      },
+      {
+        "id": "617a5cf21319d93d0d8c284d",
+        "spareId": null,
+        "label": "南区",
+        "value": "810004"
+      },
+      {
+        "id": "617a5cf31319d93d0d8c284e",
+        "spareId": null,
+        "label": "油尖旺区",
+        "value": "810005"
+      },
+      {
+        "id": "617a5cf31319d93d0d8c284f",
+        "spareId": null,
+        "label": "深水埗区",
+        "value": "810006"
+      },
+      {
+        "id": "617a5cf31319d93d0d8c2850",
+        "spareId": null,
+        "label": "九龙城区",
+        "value": "810007"
+      },
+      {
+        "id": "617a5cf31319d93d0d8c2851",
+        "spareId": null,
+        "label": "黄大仙区",
+        "value": "810008"
+      },
+      {
+        "id": "617a5cf31319d93d0d8c2852",
+        "spareId": null,
+        "label": "观塘区",
+        "value": "810009"
+      },
+      {
+        "id": "617a5cf31319d93d0d8c2853",
+        "spareId": null,
+        "label": "荃湾区",
+        "value": "810010"
+      },
+      {
+        "id": "617a5cf31319d93d0d8c2854",
+        "spareId": null,
+        "label": "屯门区",
+        "value": "810011"
+      },
+      {
+        "id": "617a5cf41319d93d0d8c2855",
+        "spareId": null,
+        "label": "元朗区",
+        "value": "810012"
+      },
+      {
+        "id": "617a5cf41319d93d0d8c2856",
+        "spareId": null,
+        "label": "北区",
+        "value": "810013"
+      },
+      {
+        "id": "617a5cf41319d93d0d8c2857",
+        "spareId": null,
+        "label": "大埔区",
+        "value": "810014"
+      },
+      {
+        "id": "617a5cf41319d93d0d8c2858",
+        "spareId": null,
+        "label": "西贡区",
+        "value": "810015"
+      },
+      {
+        "id": "617a5cf41319d93d0d8c2859",
+        "spareId": null,
+        "label": "沙田区",
+        "value": "810016"
+      },
+      {
+        "id": "617a5cf41319d93d0d8c285a",
+        "spareId": null,
+        "label": "葵青区",
+        "value": "810017"
+      },
+      {
+        "id": "617a5cf41319d93d0d8c285b",
+        "spareId": null,
+        "label": "离岛区",
+        "value": "810018"
+      }
+    ]
+  },
+  {
+    "id": "617a5cf51319d93d0d8c285c",
+    "spareId": null,
+    "label": "澳门特别行政区",
+    "value": "820000",
+    "children": [
+      {
+        "id": "617a5cf51319d93d0d8c285d",
+        "spareId": null,
+        "label": "花地玛堂区",
+        "value": "820001"
+      },
+      {
+        "id": "617a5cf51319d93d0d8c285e",
+        "spareId": null,
+        "label": "花王堂区",
+        "value": "820002"
+      },
+      {
+        "id": "617a5cf51319d93d0d8c285f",
+        "spareId": null,
+        "label": "望德堂区",
+        "value": "820003"
+      },
+      {
+        "id": "617a5cf51319d93d0d8c2860",
+        "spareId": null,
+        "label": "大堂区",
+        "value": "820004"
+      },
+      {
+        "id": "617a5cf51319d93d0d8c2861",
+        "spareId": null,
+        "label": "风顺堂区",
+        "value": "820005"
+      },
+      {
+        "id": "617a5cf51319d93d0d8c2862",
+        "spareId": null,
+        "label": "嘉模堂区",
+        "value": "820006"
+      },
+      {
+        "id": "617a5cf61319d93d0d8c2863",
+        "spareId": null,
+        "label": "路凼填海区",
+        "value": "820007"
+      },
+      {
+        "id": "617a5cf61319d93d0d8c2864",
+        "spareId": null,
+        "label": "圣方济各堂区",
+        "value": "820008"
+      }
+    ]
+  }
+]

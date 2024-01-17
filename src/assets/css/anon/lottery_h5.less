@@ -1,0 +1,328 @@
+.all {
+  width: 100%;
+  height: 1500px;
+  overflow: hidden;
+  background: url("~@/assets/img/lottery_national_day/bg_h5.jpg") no-repeat;
+  background-size: 100% 100%;
+}
+
+.logo {
+  width: 100%;
+  height: 5.1rem;
+  text-align: center;
+  margin-top: 3.5rem;
+
+  img {
+    width: 17.42rem;
+    height: 100%;
+  }
+}
+
+.title1 {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-align: center;
+  margin-top: 0.5rem;
+  background-image: linear-gradient(#fff2d2, #ffca8c);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.title2 {
+  width: 100%;
+  font-size: 1.8rem;
+  letter-spacing: 3px;
+  text-align: center;
+  margin-top: 0.5rem;
+  background: linear-gradient(to right, rgba(251, 225, 174, .5) 0%, rgba(251, 225, 174, 1) 50%, rgba(251, 225, 174, .5) 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.lottery {
+  width: 24rem;
+  height: 24rem;
+  margin: 0 auto;
+  margin-top: 8rem;
+
+  .lottery_c {
+    width: 24rem;
+    height: 24rem;
+    background: url("~@/assets/img/lottery/turntable_bg.png") no-repeat;
+    background-size: 100% 100%;
+
+    .lottery_con {
+      width: 100%;
+      height: 100%;
+      position: relative;
+
+      .dish {
+        width: 24rem;
+        height: 24rem;
+        position: absolute;
+        left: 0px;
+    top: 0px;
+      }
+
+      .pointer {
+        width: 5.35rem;
+        height: 6.07rem;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+    }
+  }
+}
+
+.record {
+  width: 21rem;
+  height: 15rem;
+  margin: 0 auto;
+  margin-top: 4rem;
+  background: url('~@/assets/img/lottery_national_day/record.png') no-repeat;
+  background-size: 100% 100%;
+  overflow: hidden;
+
+  .list {
+    width: 18rem;
+    height: 7.14rem;
+    margin: 0 auto;
+    margin-top: 4rem;
+    overflow: hidden;
+
+    ul {
+      width: 100%;
+      height: 100%;
+
+      li {
+        width: 100%;
+        height: 2.38rem;
+        font-size: 1.07rem;
+        color: #333;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+
+        span {
+          display: inline-block;
+          width: 13rem;
+          text-align: center;
+        }
+      }
+    }
+  }
+
+  .btn {
+    width: 8.57rem;
+    height: 1.78rem;
+    line-height: 1.78rem;
+    font-size: 0.92rem;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 0.71rem;
+    border-radius: 1.07rem;
+    color: #fff;
+    letter-spacing: 0.28rem;
+    background-color: #f52525;
+  }
+}
+
+.rule {
+  width: 25rem;
+  margin: 0 auto;
+  margin-top: 4rem;
+
+  .rule_c {
+    width: 100%;
+    height: 25rem;
+    background: url('~@/assets/img/lottery_national_day/rule_bg_h5.png') no-repeat;
+    background-size: 100% 100%;
+    margin-top: 1rem;
+    overflow: hidden;
+
+    ul {
+      width: 21rem;
+      height: 16rem;
+      margin-top: 4.5rem;
+      margin-left: 2rem;
+
+      li {
+        width: 100%;
+        font-size: 1rem;
+        line-height: 2.2rem;
+        border-bottom: 1px dashed #f4c79e;
+      }
+    }
+  }
+}
+
+.rule_btn {
+  width: 11rem;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 1.07rem;
+  color: #e12b2a;
+  letter-spacing: 0.28rem;
+  background-color: #fdf5d1;
+}
+
+
+
+
+.gift {
+  /deep/ .el-dialog {
+    width: 22.14rem;
+    height: 31.42rem;
+    background: url("~@/assets/img/lottery/winning.png") no-repeat;
+    background-size: 100% 100%;
+    box-shadow: none;
+    position: relative;
+
+    .el-dialog__header {
+      display: none;
+    }
+
+    .el-dialog__body {
+      width: 100%;
+      height: 100%;
+      padding: 1rem 1.3rem 0 1.3rem;
+    }
+
+    .ico {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      font-size: 1.64rem;
+      cursor: pointer;
+      color: #ffff;
+    }
+
+    .gift_c {
+      font-size: 14px;
+      color: #e83831;
+      font-weight: 600;
+      margin-top: 7rem;
+
+      .gift_txt {
+        margin-bottom: 1.2rem;
+      }
+
+      .wid {
+        display: inline-block;
+        width: 6.5rem;
+        text-align: right;
+      }
+
+      .el-form-item__label {
+        font-size: 14px;
+        color: #e83831;
+        padding: 0;
+      }
+
+      .el-input__inner {
+        height: 2.14rem;
+      }
+
+      .el-form-item {
+        margin-bottom: 20px;
+      }
+
+      .btn {
+        width: 11.92rem;
+        height: 2.71rem;
+        line-height: 2.71rem;
+        text-align: center;
+        color: #fff;
+        font-weight: 600;
+        letter-spacing: 3px;
+        border-radius: 1.78rem;
+        cursor: pointer;
+        margin: 0 auto;
+        background-color: #cc2a1e;
+      }
+
+      .btns {
+        margin-top: 3rem;
+      }
+    }
+  }
+}
+
+.notwin {
+  /deep/ .el-dialog {
+    width: 21.42rem;
+    height: 23.28rem;
+    background: url("~@/assets/img/lottery/not_win_h5.png") no-repeat;
+    background-size: 100% 100%;
+    box-shadow: none;
+    position: relative;
+
+    .el-dialog__header {
+      display: none;
+    }
+
+    .el-dialog__body {
+      width: 100%;
+      height: 100%;
+      padding: 0;
+    }
+
+    .notwin_c {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      position: relative;
+
+      .tit {
+        width: 100%;
+        text-align: center;
+        color: #e20c00;
+        font-size: 2rem;
+        font-weight: 600;
+        position: absolute;
+        top: 10.35rem;
+        left: 50%;
+        transform: translate(-50%);
+        letter-spacing: 0.7rem;
+      }
+
+      .txt {
+        width: 100%;
+        text-align: center;
+        font-size: 1.14rem;
+        position: absolute;
+        top: 14.35rem;
+        left: 50%;
+        transform: translate(-50%);
+        letter-spacing: 0.2rem;
+      }
+
+      .sure {
+        width: 11.42rem;
+        height: 2.5rem;
+        line-height: 2.5rem;
+        text-align: center;
+        font-weight: 600;
+        font-size: 1.14rem;
+        letter-spacing: 0.5rem;
+        color: #fff;
+        border-radius: 8px;
+        background-color: #e20c00;
+        position: absolute;
+        top: 18.5rem;
+        left: 50%;
+        transform: translate(-50%);
+      }
+    }
+  }
+}

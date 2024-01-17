@@ -1,0 +1,49 @@
+.el-dialog span {
+  display: inline-block;
+  color: #333;
+  font-size: 20px;
+}
+
+.el-table {
+  height: 80px;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.out {
+  /deep/ .el-dialog {
+    width: 403px;
+    height: 200px;
+    box-shadow: none;
+    background: url("~@/assets/img/public/out.png") no-repeat;
+    position: relative;
+    .el-dialog__header {
+      padding-top: 15px;
+      background-color: transparent;
+      .el-dialog__title {
+        color: rgb(71, 153, 219);
+      }
+    }
+    .el-dialog__body {
+      padding-top: 20px;
+      font-size: 16px;
+    }
+
+    .el-dialog__headerbtn {
+      display: none;
+    }
+    button {
+      width: 95px;
+      height: 35px;
+      font-size: 14px;
+      background-color: #3991d8;
+      position: absolute;
+      bottom: 15px;
+      left: 67px;
+      border-radius: 8px;
+      color: #fff;
+      letter-spacing: 3px;
+      cursor: pointer;
+    }
+  }
+}

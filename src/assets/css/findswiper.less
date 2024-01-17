@@ -1,0 +1,106 @@
+.swiper-container {
+  width: 100%;
+  height: 220px;
+}
+
+.swiper-slide {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: rgb(88, 105, 133);
+}
+
+.swiper-container {
+  --swiper-pagination-color: #fff; /* 两种都可以 */
+}
+
+.blue {
+  color: rgb(25, 147, 214);
+  background-color: #fff;
+}
+
+.blue::after {
+  border-top: 8px solid #fff;
+}
+
+.find {
+  width: 940px;
+  height: 158px;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-top: -190px;
+  position: relative;
+  z-index: 2;
+  margin-bottom: 30px;
+
+  ul {
+    width: 50%;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 15px;
+    color: #fff;
+    li {
+      padding: 3px 6px;
+      line-height: 1.42857143;
+      margin-right: 32px;
+      margin-bottom: 14px;
+      border-radius: 4px;
+      font-size: 16px;
+      text-align: center;
+      cursor: pointer;
+      float: left;
+      position: relative;
+    }
+
+    li::after {
+      position: absolute;
+      left: 35%;
+      top: 100%;
+      content: "";
+      width: 0;
+      height: 0;
+      margin-top: 0px;
+      border-left: 8px solid transparent;
+      border-right: 8px solid transparent;
+    }
+  }
+
+  .search {
+    width: 790px;
+    height: 45px;
+    line-height: 40px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 6px;
+    background-color: #fff;
+    border: 1px solid rgb(25, 147, 214);
+
+    img {
+      padding-left: 10px;
+    }
+
+    input {
+      width: 76%;
+      margin-left: 20px;
+    }
+
+    button {
+      width: 100px;
+      height: 45px;
+      color: #fff;
+      cursor: pointer;
+      letter-spacing: 6px;
+      border-radius: 6px;
+      margin-top: -1px;
+      background: linear-gradient(to right, rgb(14, 197, 179), rgb(3, 147, 200));
+    }
+  }
+}

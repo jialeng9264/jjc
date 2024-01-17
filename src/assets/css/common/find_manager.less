@@ -1,0 +1,129 @@
+.all {
+  background-color: #f5f5f5;
+  padding-bottom: 30px;
+}
+
+.breadcrumb {
+  width: 1200px;
+  height: 23px;
+  margin: 0 auto;
+  margin-top: 10px;
+
+  img {
+    float: left;
+    margin-right: 10px;
+  }
+}
+
+.bulletin {
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid #e5e5e5;
+}
+
+.bulletin_c {
+  width: 92%;
+  margin: 0 auto;
+  margin-top: 40px;
+
+  .top {
+    width: 100%;
+    height: 40px;
+
+    .el-form-item {
+      width: 500px;
+      float: left;
+    }
+
+    .el-button {
+      margin-left: 30px;
+    }
+  }
+
+  ul {
+    width: 100%;
+    margin-top: 30px;
+    overflow: hidden;
+    font-size: 14px;
+
+    li {
+      width: 100%;
+      cursor: pointer;
+      overflow: hidden;
+      position: relative;
+      border-bottom: 1px solid rgb(241, 241, 241);
+
+      img {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+
+      .content {
+        width: 96%;
+        float: right;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-left: 10px;
+        line-height: 2;
+
+        span {
+          display: inline-block;
+
+          i {
+            color: red;
+          }
+        }
+
+        span:nth-child(1) {
+          width: 360px;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          vertical-align: top;
+        }
+
+        span:nth-child(2) {
+          width: 220px;
+        }
+
+        span:nth-child(3) {
+          width: 160px;
+        }
+
+        span:not(:first-child) {
+          margin-left: 20px;
+        }
+      }
+    }
+  }
+}
+.nodate{
+  width: 100%;
+  height: 393px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 40px 0;
+    .nodate_item{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      img{
+        width: 300px;
+        height: 300px;
+      }
+    }
+}
+.fenye {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
